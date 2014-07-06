@@ -1,11 +1,21 @@
 ---
-layout: page
+layout: post
+date: "2014-05-20 16:17:00"
 title: About
+categories: [full thicket, futhermore, furthermore brewing, double ipa, ipa]
+author:
+    name: "Brad"
 ---
-
+<style type="text/css">
+	.caption {
+		background-color: red;
+	}
+</style>
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
+
+<div class="caption">aaaa</div>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
