@@ -18,7 +18,7 @@ When I first came across this beer, it was one of those things that I had to try
 	</figcaption>
 </figure>
 
-The beer itself is wonderful. It's the perfect balance of gigner, cocoa, and dark malty stout. It literally tastes like a mouthful of ginger and cocoa nibs. I was shocked when I opened the first one. It was everything I'd hoped for and more. But, as with pretty much any beer I buy, I had to know what kind of pancakes it makes
+The beer itself is wonderful. It's the perfect balance of gigner, cocoa, and dark malty stout. It literally tastes like a mouthful of ginger and cocoa nibs. I was shocked when I opened the first one. It was everything I'd hoped for and more. But, as with pretty much any beer I buy, I had to know what kind of pancakes it makes.
 
 ## Prep/Cooking
 
