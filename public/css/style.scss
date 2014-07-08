@@ -1,6 +1,3 @@
----
----
-
 @import "poole";
 @import "syntax";
 @import "lanyon";
@@ -13,4 +10,24 @@ tr a span img {
 	margin-top: 20px;
 	padding-top: 20px;
 	border-top: 1px solid #eee;
+}
+
+.imageWrap {
+	margin: 0px auto 10px;
+	max-width: 660px;
+	padding: 10px;
+	background-color: #f9f9f9;
+	border-radius: 4px;
+	border: 1px solid #e5e5e5;
+	img {
+		width: 100%;
+		max-width: 640px;
+		margin: 10px auto 20px;
+	}
+	.caption {
+		text-align: center;
+		margin-top: 10px;
+		padding-top: 10px;
+		border-top: 1px solid #e5e5e5;
+	}
 }
