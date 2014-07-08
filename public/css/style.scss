@@ -2,6 +2,9 @@
 @import "syntax";
 @import "lanyon";
 
+$fg-color: rgba(76,50,12,1);
+$bg-color: rgba(250,233,161,1);
+
 tr a span img {
 	margin: auto;
 }
@@ -9,35 +12,44 @@ tr a span img {
 .twitter {
 	margin-top: 20px;
 	padding-top: 20px;
-	border-top: 1px solid #eee;
+	border-top: 1px solid lighten($fg-color, 20%);
 }
 
 .imageWrap {
 	margin: 0px auto 10px;
 	max-width: 660px;
 	padding: 10px;
-	background-color: #f9f9f9;
+	background-color: lighten($bg-color, 10%);
 	border-radius: 4px;
-	border: 1px solid #e5e5e5;
+	border: 1px solid lighten($fg-color, 20%);
 	img {
 		width: 100%;
 		max-width: 640px;
 		margin: 10px auto 20px;
 	}
-	.caption {
+	figcaption {
 		text-align: center;
 		margin-top: 10px;
 		padding-top: 10px;
-		border-top: 1px solid #e5e5e5;
+		border-top: 1px solid lighten($fg-color, 20%);
 	}
 }
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+	background-color: lighten($bg-color, 10%);
+}
+td,th, table {
+	border-color: lighten($fg-color, 20%);
+	background-color: lighten($bg-color, 10%);
+}
 
-$fg-color: rgba(76,50,12,1);
-$bg-color: rgba(250,233,161,1);
 
 html, body {
 	background-color: $bg-color;
 	color: $fg-color;
+}
+.masthead {
+	border-bottom-color: lighten($fg-color, 20%);
 }
 .masthead-title a,
 .page-title,
