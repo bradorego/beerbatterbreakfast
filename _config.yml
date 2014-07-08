@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Beer Batter Breakfast
 description:      'A blog about beer pancakes.'
-url:              http://localhost:4000
+url:              http://beerbatterbreakfast.com
 baseurl:          '/'
 paginate:         5
 
@@ -18,6 +18,13 @@ author:
 
 # Custom vars
 version:          1.0.0
+
+authors:
+  bradorego:
+    name: Brad
+    gravatar: 5abc28e6bc87799335d8ccaad3662e53
+    twitter: bradorego
+    website: http://bradorego.com
 
 # stupid github pages doesn't allow sass :(
 # sass:
