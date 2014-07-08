@@ -8,8 +8,8 @@ permalink:        pretty
 # Setup
 title:            Beer Batter Breakfast
 description:      'A blog about beer pancakes.'
-url:              http://beerbatterbreakfast.com/
-baseurl:          'http://beerbatterbreakfast.com/'
+url:              http://beerbatterbreakfast.com
+baseurl:          '/'
 paginate:         5
 
 author:
