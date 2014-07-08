@@ -10,7 +10,7 @@ title:            Beer Batter Breakfast
 description:      'A blog about beer pancakes.'
 url:              http://beerbatterbreakfast.com
 baseurl:          'http://beerbatterbreakfast.com'
-paginate:         1
+paginate:         5
 
 author:
   name:           'Brad Orego'
