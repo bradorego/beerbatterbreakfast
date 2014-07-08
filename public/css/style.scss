@@ -31,3 +31,38 @@ tr a span img {
 		border-top: 1px solid #e5e5e5;
 	}
 }
+
+$fg-color: rgba(76,50,12,1);
+$bg-color: rgba(250,233,161,1);
+
+html, body {
+	background-color: $bg-color;
+	color: $fg-color;
+}
+.masthead-title a,
+.page-title,
+.post-title,
+.post-title a,
+h1,h2,h3 {
+	color: $fg-color;
+}
+.post-date,
+.related-posts li small {
+	color: lighten($fg-color, 20%)
+}
+.sidebar-toggle {
+	color: $bg-color;
+	background-color: $fg-color;
+}
+.sidebar-toggle:active, #sidebar-checkbox:checked ~ .sidebar-toggle {
+	color: $fg-color;
+	background-color: $bg-color;
+}
+
+.sidebar {
+	background-color: $fg-color;
+	color: darken($bg-color, 40%);
+	a {
+		color: $bg-color;
+	}
+}
