@@ -60,4 +60,4 @@ I wasn't sure what to expect of these pancakes, especially when I first started 
   </figcaption>
 </figure>
 
-{% include twitter.html tweetAt=" from #LakeLouieBrewing" %}
+{% include twitter.html tweetAt=" from Lake Louie Brewing" %}
