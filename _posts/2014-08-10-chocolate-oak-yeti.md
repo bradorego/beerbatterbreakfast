@@ -7,7 +7,7 @@ categories: [chocolate, oak, yeti, imperial stout, chocolate oak yeti, Great Div
 author: bradorego
 ---
 
-Almost definitely the first/only beer I've had from Great Divide (though <a href="http://greatdivide.com/beer/seasonal/tank-farm/old-ruffian-barley-wine/" target="_blank">Old Ruffian</a> sounds familiar), this week's entry comes after a mini-hiatus thanks to <a href="http://www.chicagosandblast.com" target="_blank">Sandblast</a>. I was gifted this lovely bottle by my good friend Tiffany at a party back in Buffalo a few weeks ago. A Chocolcate Oak-aged Imperial Stout sounds just delicious.
+Almost definitely the first/only beer I've had from Great Divide (though <a href="http://greatdivide.com/beer/seasonal/tank-farm/old-ruffian-barley-wine/" target="_blank">Old Ruffian</a> sounds familiar), this week's entry comes after a mini-hiatus thanks to <a href="http://www.chicagosandblast.com" target="_blank">Sandblast</a>. I was gifted this lovely bottle by my good friend Tiffany at a party back in Buffalo a few weeks ago. A Chocolate Oak-aged Imperial Stout sounds just delicious.
 
 <figure class="imageWrap">
   <a href="{{ site.url }}/assets/full/chocolateoakyeti/beer.png" target="_blank">
@@ -18,7 +18,7 @@ Almost definitely the first/only beer I've had from Great Divide (though <a href
   </figcaption>
 </figure>
 
-To be completely honest, I've become somewhat weary of dark big beers when it comes to this blog. Most of what we've done in the past hasn't worked out magnificently, but I figured I'd give this one a go. The beer itself poured somewhat flat, but was almost pitch black in color. It wasn't anywhere near as chocolatey or oaky as I'd expected, but it was definitely dark, roasty, and slightly boozy (clocking in at 9.5%). Only one way to find out how it does as pancakes, though.
+To be completely honest, I've become somewhat weary of dark big beers when it comes to this blog. Most of what we've <a href="http://beerbatterbreakfast.com/2013/09/narwhal.html" target="_blank">done</a> <a href="http://beerbatterbreakfast.com/2013/09/teddy-bear-kisses.html" target="_blank">in the</a> <a href="http://beerbatterbreakfast.com/2013/06/boris-crusher.html" target="_blank">past</a> hasn't worked out magnificently, but I figured I'd give this one a go. The beer itself poured somewhat flat, but was almost pitch black in color. It wasn't anywhere near as chocolatey or oaky as I'd expected, but it was definitely dark, roasty, and slightly boozy (clocking in at 9.5%). Only one way to find out how it does as pancakes, though.
 
 ## Prep/Cooking
 
