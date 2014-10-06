@@ -9,6 +9,10 @@ tr a span img {
 	margin: auto;
 }
 
+a {
+	color: lighten($fg-color, 20%);
+}
+
 .twitter {
 	margin-top: 20px;
 	padding-top: 20px;
