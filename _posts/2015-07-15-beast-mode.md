@@ -12,8 +12,8 @@ First things first, the name of this beer is awesome. <a href="https://img0.etsy
 Okay, now that we have that cleared up, <a href="http://sixpoint.com/beers/cycliquids/beastmode" target="_blank">Beast Mode</a> is an American Porter from Six Point Brewery whose tastings notes include "coffee, roast, hops, and caramel" according to their website.
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/beastmode/beer.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/beastmode/beer.png" alt="I'm just about that boss action" />
+  <a href="{{ site.url }}/assets/full/beastmode/beer.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/beastmode/beer.jpg" alt="I'm just about that boss action" />
   </a>
   <figcaption>
     I'm just about that boss action
@@ -25,8 +25,8 @@ For me, Beast Mode was a delightfully dry and crisp porter with an almost chewy 
 ## Prep/Cooking
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/beastmode/batter.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/beastmode/batter.png" alt="Do you have any Skittles?" />
+  <a href="{{ site.url }}/assets/full/beastmode/batter.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/beastmode/batter.jpg" alt="Do you have any Skittles?" />
   </a>
   <figcaption>
     Do you have any Skittles?
@@ -38,8 +38,8 @@ Beast Mode's batter kept a lot of the characteristics I picked up in the beer - 
 ## Results
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/beastmode/pancakes.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/beastmode/pancakes.png" alt="I'm just here so I don't get fined" />
+  <a href="{{ site.url }}/assets/full/beastmode/pancakes.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/beastmode/pancakes.jpg" alt="I'm just here so I don't get fined" />
   </a>
   <figcaption>
     I'm just here so I don't get fined
@@ -56,8 +56,8 @@ Anyway, flavor-wise there wasn't a ton going on here, either, which isn't a surp
 * Syrup: Yes. While the syrup didn't really do anything to bring any characteristics out, it did smooth over some of the rough patches of the pancakes, so I'd have to recommend if it you're going to try.
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/beastmode/syrup.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/beastmode/syrup.png" alt="No Juice" />
+  <a href="{{ site.url }}/assets/full/beastmode/syrup.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/beastmode/syrup.jpg" alt="No Juice" />
   </a>
   <figcaption>
     No Juice
