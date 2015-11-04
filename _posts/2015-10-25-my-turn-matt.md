@@ -1,5 +1,5 @@
 ---
-title: Lakefront My Turn\: Matt
+title: Lakefront My Turn&#58; Matt
 layout: post
 permalink: "/2015/10/my-turn-matt.html"
 date: "2015-10-25 8:49:00"
