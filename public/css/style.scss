@@ -20,18 +20,8 @@ $accent-color: rgba(252, 193, 67, 1);
   -webkit-backface-visibility: hidden;
       -ms-backface-visibility: hidden;
           backface-visibility: hidden;
-}
-.masthead {
   -webkit-transition: -webkit-transform .3s ease-in-out;
           transition: transform .3s ease-in-out;
-}
-
-.sidebar {
-  left: initial;
-  right: -14rem;
-}
-
-.masthead {
   position: fixed;
   width: 100%;
   background: $bg-color;
@@ -39,6 +29,9 @@ $accent-color: rgba(252, 193, 67, 1);
   margin-bottom: 0px;
   z-index: 999;
   border-bottom-color: $fg-color;
+  h3 {
+    text-align: center;
+  }
 }
 .sidebar-toggle {
   color: $bg-color;
@@ -57,17 +50,37 @@ $accent-color: rgba(252, 193, 67, 1);
 
 .sidebar {
   background-color: $fg-color;
-  color: darken($bg-color, 40%);
+  left: initial;
+  right: -14rem;
+  color: $bg-color;
   a {
     color: $bg-color;
   }
 }
-
-
 .content {
   margin-top: 80px;
 }
 ///end lanyon
+
+#search-container {
+  input {
+    width: 100%;
+    padding: 5px;
+    font-size: 16px;
+    color: $bg-color;
+    border: 1px solid $bg-color;
+    background: $fg-color;
+  }
+  #results-container {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    a, span {
+      display: block;
+      padding: 10px 0px;
+    }
+  }
+}
 
 
 tr a span img {

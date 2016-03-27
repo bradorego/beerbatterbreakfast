@@ -1,0 +1,15 @@
+---
+layout: null
+---
+[
+  {% for post in site.posts %}
+  {
+    "title"    : "{{ post.title }}",
+    "tags"     : "{{ post.categories | join: ', ' }}",
+    "author": "{{ post.author | xml_escape }}",
+    "url"      : "{{ post.url }}",
+    "date"     : "{{ post.date }}"
+  } {% unless forloop.last %},{% endunless %}
+
+  {% endfor %}
+]
