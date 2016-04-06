@@ -1,7 +1,7 @@
 ---
 title: Tallgrass Ginger Peach Saison
 layout: post
-permalink: "/2016/04/doom-tree/"
+permalink: "/2016/04/ginger-peach/"
 date: "2016-04-02 8:49:00"
 categories: [Tallgrass Brewing Company, Kansas, ginger peach, saison]
 author: bradorego
