@@ -1,5 +1,5 @@
 ---
-title: Surly Doomtree
+title: Tallgrass Ginger Peach Saison
 layout: post
 permalink: "/2016/04/doom-tree/"
 date: "2016-04-02 8:49:00"
@@ -10,8 +10,8 @@ author: bradorego
 As an overarching rule, I'm a huge fan of the beer Tallgrass makes: Vanilla Bean Buffalo Sweat is still one of my favorites, and I'll drink a Wooden Rooster any day. That being said, when I saw this one on the shelves on a hot summer day last year, I got really excited for it. Especially with the word "ginger" on it. Let's see if it can handle the BBB treatment.
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/doomtree/beer.jpg" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/doomtree/beer.jpg" alt="What's with all the cans lately?" />
+  <a href="{{ site.url }}/assets/full/gingerpeach/beer.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/gingerpeach/beer.jpg" alt="What's with all the cans lately?" />
   </a>
   <figcaption>
     What's with all the cans lately?
@@ -25,8 +25,8 @@ Tallgrass claims they "turned it up to 11" with their <a href="http://tallgrassb
 ## Prep/Cooking
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/doomtree/batter.jpg" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/doomtree/batter.jpg" alt="Don't get too excited now" />
+  <a href="{{ site.url }}/assets/full/gingerpeach/batter.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/gingerpeach/batter.jpg" alt="Don't get too excited now" />
   </a>
   <figcaption>
     Don't get too excited now
@@ -38,8 +38,8 @@ Ginger Peach's batter comes across with subtle hints of that saison-esque Belgia
 ## Results
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/doomtree/pancakes.jpg" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/doomtree/pancakes.jpg" alt="Notice how little the amount of beer has changed" />
+  <a href="{{ site.url }}/assets/full/gingerpeach/pancakes.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/gingerpeach/pancakes.jpg" alt="Notice how little the amount of beer has changed" />
   </a>
   <figcaption>
     Notice how little the amount of beer has changed
@@ -54,8 +54,8 @@ You can chalk this one up as disappointing. I'm still a huge fan of Tallgrass's 
 * Syrup: Yes. That being said, wow did they get a lot more interested with syrup. That subtle puff of fruit lasted a bit longer and there was a lot more nuance to the flavor.
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/doomtree/syrup.jpg" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/doomtree/syrup.jpg" alt="Syrup saves the day again" />
+  <a href="{{ site.url }}/assets/full/gingerpeach/syrup.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/gingerpeach/syrup.jpg" alt="Syrup saves the day again" />
   </a>
   <figcaption>
     Syrup saves the day again
