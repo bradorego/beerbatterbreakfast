@@ -62,4 +62,4 @@ You can chalk this one up as disappointing. I'm still a huge fan of Tallgrass's 
   </figcaption>
 </figure>
 
-{% include twitter.html tweetAt=" from @surlybrewing" %}
+{% include twitter.html tweetAt=" from @tallgrassbeer" %}
