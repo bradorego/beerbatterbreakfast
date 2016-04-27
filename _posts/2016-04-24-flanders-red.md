@@ -1,5 +1,5 @@
 ---
-title: Destihl Wild Sour: Flanders Red
+title: Destihl Wild Sour - Flanders Red
 layout: post
 permalink: "/2016/04/flanders-red/"
 date: "2016-04-24 8:49:00"
