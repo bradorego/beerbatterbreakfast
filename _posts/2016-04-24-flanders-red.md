@@ -2,7 +2,7 @@
 title: Destihl Wild Sour: Flanders Red
 layout: post
 permalink: "/2016/04/flanders-red/"
-date: "2016-04-02 8:49:00"
+date: "2016-04-24 8:49:00"
 categories: [Destihl Brewery, Bloomington, Illinois, wild sour, flanders red, sour ale]
 author: bradorego
 ---
