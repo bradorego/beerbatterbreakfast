@@ -1,7 +1,7 @@
 ---
 title: JP's Imperial Date Porter
 layout: post
-permalink: "/2016/05/jp-imperial-date-porte/"
+permalink: "/2016/05/jp-imperial-date-porter/"
 date: "2016-05-01 8:49:00"
 categories: [Jesse Peterson, homebrew, JP, Wisconsin, curling, oak aged imperial porter, porter, barrel aged, date]
 author: bradorego
