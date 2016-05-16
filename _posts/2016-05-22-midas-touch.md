@@ -1,69 +1,69 @@
 ---
-title: Oud Bruin 2016
+title: Midas Touch
 layout: post
 permalink: "/2016/05/midas-touch"
 date: "2016-05-22 10:27:00"
-categories: [sour ale, oud bruin, thumbprint series, new glarus, wisconsin, new glarus brewing company, sour, vertical]
+categories: [dogfish head brewing company, delaware, ancient ale, honey, saffron, barley, wheat beer]
 author: bradorego
-type: Sour
-brewery: New Glarus
-pancakes: "Yes"
+type: Ancient Ale
+brewery: Dogfish Head
+pancakes: "No"
 syrup: "Yes"
 ---
 
 {% include tldnr.html %}
 
-I always get really excited about verticals on this blog, and we've already had a few (just search "vertical" on the sidebar), but I'm always happy to introduce another. New Glarus's annual sour (though it's no Enigma) has made <a href="/2014/08/oud-bruin.html">one prior appearance</a> on this blog and I was happy to be able to bring it back again this year. Let's see how it fares!
+Dogfish Head is one of those breweries that I probably don't give enough credit to. This is probably due to how popular they are, but also might be because they're known for their IPAs, which I'm known for not liking. Midas Touch is one of those beers that defies convention, though, so in true BBB fashion, I knew I had to make pancakes of it.
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/oud-bruin-2016/beer.jpg">
-    <img src="{{ site.url }}/assets/compressed/oud-bruin-2016/beer.jpg" alt="Notice how they put the year on it now? Live and learn, my friends" />
+  <a href="{{ site.url }}/assets/full/midas-touch/beer.jpg">
+    <img src="{{ site.url }}/assets/compressed/midas-touch/beer.jpg" alt="Grape beer?!" />
   </a>
   <figcaption>
-    Notice how they put the year on it now? Live and learn, my friends
+    Grape beer?!
   </figcaption>
 </figure>
 
-<a href="http://www.newglarusbrewing.com/index.cfm/beers/ourbeers/beer/oud-bruin">Oud Bruin</a> is one of New Glarus Brewing Company's "thumbprint" series - brews that aren't exactly seasonal, aren't exact rotational, but are all pretty incredible. Oud Bruin is more of a traditional Flanders Red style that features a delightfully balanced tart sour with cherry notes. The fruit flavors don't overwhelm a strong red/brown ale style body. Really a great beer overall.
+When I say "defies convention", I'm not kidding. <a href="http://www.dogfish.com/brews-spirits/the-brews/year-round-brews/midas-touch.htm">Midas Touch</a> is, as its marketed by Dogfish Head, an "Ancient Ale". As the story goes, residue found on 2700 year old vessels from the tomb of King Midas was analyzed, and these were the ingredients they found: barley, honey, saffron, and papaya/melon. From this, they tried to recreate the same composition in beer form, giving us Midas Touch. It pours a light blonde with virtually no head, and my particular bottle was approximately a year old (so a fresh one might look/taste/behave differently). The sweetness of the honey and the barley flavor profile come through first, and there's a subtlety to the finish that took me awhile to place: it's almost like a champagne or mead on the tail end.
 
 ## Prep/Cooking
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/oud-bruin-2016/batter.jpg">
-    <img src="{{ site.url }}/assets/compressed/oud-bruin-2016/batter.jpg" alt='Note: this was a "full  (I usually do halves), hence the bowl :)"' />
+  <a href="{{ site.url }}/assets/full/midas-touch/batter.jpg">
+    <img src="{{ site.url }}/assets/compressed/midas-touch/batter.jpg" alt='Looks harmess enough...' />
   </a>
   <figcaption>
-    Note: this was a "full batch" (I usually do halves), hence the bowl :)
+    Looks harmess enough...
   </figcaption>
 </figure>
 
-The batter was surprisingly thick given how easily-drinkable the beer is, and it has a pleasant light brown color. At first, the batter tasted nothing like the beer, but had an oddly biscuity flavor. After a few tastes, I was able to adapt, and it developed a lightly fruity finish. Not sour at all, but overall really nice.
+What is a really interesting and complex flavor profile in the beer all but vanishes in batter. This isn't all that rare, unfortunately - delicate flavors usually just don't stand up to batter. Midas is no different. It had a thin, light consistency, which almost lead me to add more mix, but in the end I decided against it. The batter did have a slight dry grape finish to it like the beer did, but without the other flavors in support/contrast, it wasn't very enjoyable.
 
 ## Results
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/oud-bruin-2016/pancakes.jpg">
-    <img src="{{ site.url }}/assets/compressed/oud-bruin-2016/pancakes.jpg" alt="Consistency ftw" />
+  <a href="{{ site.url }}/assets/full/midas-touch/pancakes.jpg">
+    <img src="{{ site.url }}/assets/compressed/midas-touch/pancakes.jpg" alt="Ancient Pancakes...?" />
   </a>
   <figcaption>
-    Consistency ftw
+    Ancient Pancakes...?
   </figcaption>
 </figure>
 
-My first impression of these pancakes was a wonderful cherry aroma. It was subtle (like all of the fruit flavors have been throughout), but I immediately picked up on it. Flavor-wise, again, at first there wasn't a very strong Oud Bruin-esque flavor, but after a few bites my taste buds adapted and the pancakes developed a wonderful cherry finish to go with a nice malty backbone. Still not sour, but they left a crisp, fresh feeling.
+2700 years in the making, the first thing I noticed was a slight honey aroma, like in a mead. It didn't smell like honey, but as a mead drinker, I recognized it almost immediately. The sweetness and mild herby flavors from the saffron and barley were completely nonexistant, yet that dry grape, champagne/white wine-esque finish was still there. Overall, I was pretty disappointed.
 
 ## The Decision
 
-* Pancakes: Yes. I'm remiss to say make pancakes out of this beer because how good the beer is, but that's not fair to hold it against the pancakes. They were subtle throughout but a really pleasant experience.
-* Syrup: Yes. Something about the sweetness of the syrup finally brought the fruit flavors to the forefront. At the same time, it didn't overpower the pancake flavor. I had exactly one bite that had slight hint of funk to it, but that may've just been my brain substituting associations...
+* Pancakes: No. Midas Touch isn't the rarest beer out there, but considering it's interesting and delightful in liquid form, making pancakes out of this would be a disservice to the beer.
+* Syrup: Yes. That being said, adding syrup certainly improved things. The flavors were all richer overall, and adding syrup brought back a strong honey flavor (whaddayaknow). Still not great, but certainly better.
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/oud-bruin-2016/syrup.jpg">
-    <img src="{{ site.url }}/assets/compressed/oud-bruin-2016/syrup.jpg" alt="Wonderful" />
+  <a href="{{ site.url }}/assets/full/midas-touch/syrup.jpg">
+    <img src="{{ site.url }}/assets/compressed/midas-touch/syrup.jpg" alt="Such a disappointment" />
   </a>
   <figcaption>
-    Wonderful
+    Such a disappointment
   </figcaption>
 </figure>
 
-{% include twitter.html %}
+{% include twitter.html tweetAt=" from @dogfishbeer" %}
