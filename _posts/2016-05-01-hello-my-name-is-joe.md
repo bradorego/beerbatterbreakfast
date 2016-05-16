@@ -5,7 +5,14 @@ permalink: "/2016/05/hello-my-name-is-joe/"
 date: "2016-05-01 8:49:00"
 categories: [3 Sheeps Brewing Company, Sheboygan, Wisconsin, imperial black wheat coffee ale, coffee ale, wheat beer]
 author: bradorego
+
+type: Imperial Black Wheat
+brewery: 3 Sheeps Brewing Company
+pancakes: "No"
+syrup: "No"
 ---
+
+{% include tldnr.html %}
 
 The fun thing about buying lots of beer and keeping it in storage for awhile is when you finally get around to drinking it and you discover a) the brewery is never making anything like it ever again, or b) it was so wildly popular the brewery is expanding its production. In this case, Hello My Name Is Joe (HMNIJ) used to be a seasonal and is now a year-round offer from 3 Sheeps. I personally would take Ewephoria over HMNIJ in a heartbeat, but...so it goes.
 

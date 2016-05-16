@@ -5,7 +5,13 @@ permalink: "/2016/04/one-buffalo/"
 date: "2016-04-09 8:49:00"
 categories: [Southern Tier Brewing Company, New York, One Buffalo, blone ale, saison]
 author: bradorego
+type: Blonde Ale
+brewery: Southern Tier Brewing Copmany
+pancakes: "Yes"
+syrup: "No"
 ---
+
+{% include tldnr.html %}
 
 OneBuffalo is Southern Tier's attempt (I guess it's being dubbed a "collaboration" with Pegula Sports &amp; Entertainment) at creating a good "stadium beer". That is, something that's drinkable by the masses in a sports context. As a huge proponent of craft beer, I'm sad to see something like this dubbed as "the beer" of Buffalo, but so it goes.
 

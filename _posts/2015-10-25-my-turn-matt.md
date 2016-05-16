@@ -5,7 +5,13 @@ permalink: "/2015/10/my-turn-matt.html"
 date: "2015-10-25 8:49:00"
 categories: [Lakefront Brewery, Wisconsin, farmhouse ale, saison, barrel aged, oak aged farmhouse red ale]
 author: bradorego
+type: Oak Aged Farmhouse Red Ale
+brewery: Lakefront Brewery
+pancakes: "Yes"
+syrup: "Yes"
 ---
+
+{% include tldnr.html %}
 
 Lakefront Brewery's "My Turn" series is another one of those "every employee matters so everyone gets to brew whatever beer they want". I'm a big fan of these types of things because it's just a cool thing to do, and it gives the brewery an excuse to explore different ideas and styles. Lakefront is no exception to this rule, with beers ranging from today's Oak Aged Farmhouse Red to Vanilla Maple Dopplebock to whatever a Weinachtsbockbier is.
 

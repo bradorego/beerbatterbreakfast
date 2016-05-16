@@ -5,7 +5,13 @@ permalink: "/2016/04/flanders-red/"
 date: "2016-04-24 8:49:00"
 categories: [Destihl Brewery, Bloomington, Illinois, wild sour, flanders red, sour ale]
 author: bradorego
+type: Flanders Red Ale
+brewery: Destihl Brewery
+pancakes: "No"
+syrup: "Yes"
 ---
+
+{% include tldnr.html %}
 
 Destihl is another brewery that's relatively new to Wisconsin (or, at least, to me). Their Wild Sour series started popping up around town sometime last summer, and any time you put "sour" on a beer, you've got my attention. Looking at all 4 styles/options (Gose, Flanders Red, Berliner Weiss, Raspberry Berliner Weiss), I decided to go back to my roots and try the Flanders Red.
 

@@ -5,7 +5,13 @@ permalink: "/2015/07/beast-mode.html"
 date: "2015-07-15 8:49:00"
 categories: [porter, stout, beast mode, Six Point, Six Point Brewery, Brooklyn, New York]
 author: bradorego
+type: American Porter
+brewery: Six Point Brewery
+pancakes: "No"
+syrup: "Yes"
 ---
+
+{% include tldnr.html %}
 
 First things first, the name of this beer is awesome. <a href="https://img0.etsystatic.com/055/0/7092175/il_570xN.747418260_k48h.jpg" target="_blank">Obligatory Marshawn Lynch reference</a> (wait, he has his own clothing line now? That's a little ridiculous).
 

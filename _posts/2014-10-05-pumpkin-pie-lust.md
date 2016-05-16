@@ -5,7 +5,13 @@ permalink: "/2014/10/pumpkin-pie-lust.html"
 date: "2014-10-05 10:27:00"
 categories: [pumpkin beer, pumpkin pie lust, new glarus, wisconsin, new glarus brewing company]
 author: bradorego
+type: Pumpkin Ale
+brewery: New Glarus
+pancakes: "No"
+syrup: "No"
 ---
+
+{% include tldnr.html %}
 
 I've really been slacking on the pumpkin beer front so far this year. It's usually the thing I look forward to the most (hence having my own private pumpkin beer reserve), but for whatever reason I've dropped the ball. Maybe it's just here in Wisconsin, but it seems like there are way more pumpkin beers this year than in years past, so I'm basically in heaven with all of the new stuff to try. Speaking of new pumpkin beer, <a href="http://www.newglarusbrewing.com" target="_blank">New Glarus</a> just tossed their hat into the ring and released Pumpkin Pie Lust.
 

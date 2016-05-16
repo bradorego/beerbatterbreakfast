@@ -5,7 +5,13 @@ permalink: "/2014/08/nude-beach.html"
 date: "2014-08-20 10:27:00"
 categories: [nude beach, summer wheat, wheat beer, stevens point, stevens point brewery, wisconsin]
 author: bradorego
+type: Summer Wheat
+brewery: Stevens Point Brewery
+pancakes: "Yes"
+syrup: "No"
 ---
+
+{% include tldnr.html %}
 
 First things first, You have to love the name of this beer. It's really fun to talk about out of context, and I'm sure this post popping up in your news feed, RSS, etc. caught your eye. Today's beer comes to us from <a href="http://www.pointbeer.com" target="_blank">Stevens Point Brewery</a>. This <a href="http://beerbatterbreakfast.com/2013/10/whole-hog-pumpkin-ale.html" target="_blank">isn't the first Point beer</a> we've seen, but it's likely more noticeable and well-known than our previous.
 
@@ -46,9 +52,9 @@ While I wasn't crazy about the beer itself, the batter more-than made up for it.
 
 This review isn't exactly fair. As far as most beer pancakes go, these are delicious. They were delightfully flavorful without being overbearing, and you get flavors in pancakes that you don't in the beer. However, as previously mentioned, wheat beers are on a bit of a pedestal on this blog. That being said, this was kind of a disappointment. The batter was so good and it went downhill from there. Still pretty great, but a disappointment.
 
-## Ternary Scale
+## The Decision
 
-* Pancakes: 3. Even if the pancakes were a disappointment, they're still really good pancakes.
+* Pancakes: Yes. Even if the pancakes were a disappointment, they're still really good pancakes.
 * Syrup: No. I've never had this happen before. Usually syrup will do nothing or it will overpower the flavor. In this case, it just made them taste like regular pancakes (which, at this point, I can't imagine why anyone would want to eat, but hey, to each their own).
 
 <figure class="imageWrap">

@@ -5,7 +5,13 @@ permalink: "/2014/10/weyerbacher-imperial-pumpkin.html"
 date: "2014-10-28 10:27:00"
 categories: [pumpkin beer, imperial pumpkin, weyerbacher brewing company, pennsylvania]
 author: bradorego
+type: Imperial Pumpkin Ale
+brewery: Weyerbacher Brewing Company
+pancakes: "Yes"
+syrup: "No"
 ---
+
+{% include tldnr.html %}
 
 Pumpkin beer season this year has kept me unacceptably busy. The good news is I have a lot of pumpkin beer still to try (and to make pancakes out of). Today's entry is another new beer I discovered this year - <a href="http://www.weyerbacher.com/beers/seasonal/imperial-pumpkin-ale/" target="_blank">Imperial Pumpkin Ale</a> from Weyerbacher Brewing Company.
 

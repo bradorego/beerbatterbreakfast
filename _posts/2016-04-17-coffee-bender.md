@@ -5,7 +5,13 @@ permalink: "/2016/04/coffee-bender/"
 date: "2016-04-17 8:49:00"
 categories: [Surly Brewing Company, Minnesota, brown ale, coffee ale]
 author: bradorego
+type: Coffee Brown Ale
+brewery: Surly Brewing Company
+pancakes: "Yes"
+syrup: "Yes"
 ---
+
+{% include tldnr.html %}
 
 Surly's invasion of Wisconsin last summer caused quite the stir, and it provided us with many other fantastic beer options that have certainly survived the initial rush. Having personally taken a trip to Surly's brewery, I can tell you what they serve up on-site is way better than what they distribute. But even at that, they make some pretty solid beers. We had <a href="/2016/03/doom-tree/" target="_blank">Doom Tree</a> a few weeks ago, and here we are back with Coffee Bender.
 

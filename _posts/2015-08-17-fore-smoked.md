@@ -5,7 +5,13 @@ permalink: "/2015/08/fore-smoked.html"
 date: "2015-08-17 8:49:00"
 categories: [porter, stout, fore, smoked stout, Dark Horse, Dark Horse Brewing Company, Michigan]
 author: bradorego
+type: Smoked Stout
+brewery: Dark Horse Brewing Company
+pancakes: "Yes"
+syrup: "Yes"
 ---
+
+{% include tldnr.html %}
 
 I've had a few smoked beers on here before and I've grown weary of them because they don't seem to work out. But I couldn't resist giving <a href="http://www.darkhorsebrewery.com/fore-smoked-stout" target="_blank">Fore</a> a shot. Part of Dark Horse's "Stout Series", Fore features "hardwood smoked malt", as well as "smoked chocolate" (wut) and coffee (according to their website). How does this managerie of flavors translate to pancakes?
 

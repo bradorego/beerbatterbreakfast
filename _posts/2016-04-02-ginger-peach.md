@@ -5,7 +5,13 @@ permalink: "/2016/04/ginger-peach/"
 date: "2016-04-02 8:49:00"
 categories: [Tallgrass Brewing Company, Kansas, ginger peach, saison]
 author: bradorego
+type: Saison
+brewery: Tallgrass Brewing Company
+pancakes: "No"
+syrup: "Yes"
 ---
+
+{% include tldnr.html %}
 
 As an overarching rule, I'm a huge fan of the beer Tallgrass makes: Vanilla Bean Buffalo Sweat is still one of my favorites, and I'll drink a Wooden Rooster any day. That being said, when I saw this one on the shelves on a hot summer day last year, I got really excited for it. Especially with the word "ginger" on it. Let's see if it can handle the BBB treatment.
 

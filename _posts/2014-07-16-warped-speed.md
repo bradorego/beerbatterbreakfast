@@ -5,7 +5,13 @@ permalink: "/2014/07/warped-speed.html"
 date: "2014-07-16 10:27:00"
 categories: [warped speed, scotch ale, lake louie brewing company, wisconsin]
 author: bradorego
+type: Scotch Ale
+brewery: Lake Louie Brewing Company
+pancakes: "Yes"
+syrup: "No"
 ---
+
+{% include tldnr.html %}
 
 Arguably one of their most popular/famous beers, Warped Speed is a delightful Scotch Ale from Lake Louie Brewing Company out of Arena, WI, just a little West of Madison.
 
@@ -46,10 +52,10 @@ I was first (and most) stricken by the color of the batter. The beer pours a dee
 
 I wasn't sure what to expect of these pancakes, especially when I first started with the beer. The batter gave a little inkling, but what I was expecting didn't at all measure up to these pancakes. The sweetness of the batter fell off and the malty caramel came through a lot more. The bite of the alcohol in beer form was virtually nonexistent as well, making the pancakes way more palatable than the beer.
 
-## Ternary Scale
+## The Decision
 
-* Pancakes: 3. I'm pretty sure I'd take the pancakes over the beer pretty much any day.
-* Syrup: 1. It didn't really help or harm here. I don't think it's worth it from that standpoint.
+* Pancakes: Yes. I'm pretty sure I'd take the pancakes over the beer pretty much any day.
+* Syrup: No. It didn't really help or harm here. I don't think it's worth it from that standpoint.
 
 <figure class="imageWrap">
   <a href="{{ site.url }}/assets/full/lakelouie/syrup.png" target="_blank">

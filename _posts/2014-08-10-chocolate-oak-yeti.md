@@ -5,7 +5,13 @@ permalink: "/2014/08/chocolate-oak-yeti.html"
 date: "2014-08-10 10:27:00"
 categories: [chocolate, oak, yeti, imperial stout, chocolate oak yeti, Great Divide Brewing Company, Great Divide, Denver, Colorado, stout, barrel aged]
 author: bradorego
+type: Imperial Stout
+brewery: Great Divide Brewing Company
+pancakes: "No"
+syrup: "Yes"
 ---
+
+{% include tldnr.html %}
 
 Almost definitely the first/only beer I've had from Great Divide (though <a href="http://greatdivide.com/beer/seasonal/tank-farm/old-ruffian-barley-wine/" target="_blank">Old Ruffian</a> sounds familiar), this week's entry comes after a mini-hiatus thanks to <a href="http://www.chicagosandblast.com" target="_blank">Sandblast</a>. I was gifted this lovely bottle by my good friend Tiffany at a party back in Buffalo a few weeks ago. A Chocolate Oak-aged Imperial Stout sounds just delicious.
 
@@ -46,10 +52,10 @@ Almost definitely the best part of this process (spoiler alert?), the batter was
 
 In terms of flavor, the exact opposite happened to the pancakes that did to the batter - the chooclate flavors dropped off almost completely, and the pancakes took on this interesting oaky flavor. If you tried really hard, you may've been able to get some malt and cocoa, but you'd have to really try. The pancakes were also really flat and had a slightly boozy aftertaste. My favorite one was probably the first one, which was kinda crispy from the olive oil I used to cook it with. Odd.
 
-## Ternary Scale
+## The Decision
 
-* Pancakes: 2. I'm on the fence with this one. They weren't terrible, but they also weren't great. The beer itself is probably better if only for the alcohol content, but to be honest I was kind of disappointed with the beer as well.
-* Syrup: 2. I'm honestly not sure how I feel about syrup. This is one of the rare beers that the flavor actually stands up to the syrup's sweetness, but I couldn't make up my mind if that's a good thing or not. I'd say try it for yourself.
+* Pancakes: No. I'm on the fence with this one. They weren't terrible, but they also weren't great. The beer itself is probably better if only for the alcohol content, but to be honest I was kind of disappointed with the beer as well.
+* Syrup: Yes. I'm honestly not sure how I feel about syrup. This is one of the rare beers that the flavor actually stands up to the syrup's sweetness, but I couldn't make up my mind if that's a good thing or not. I'd say try it for yourself.
 
 <figure class="imageWrap">
   <a href="{{ site.url }}/assets/full/chocolateoakyeti/syrup.png" target="_blank">
