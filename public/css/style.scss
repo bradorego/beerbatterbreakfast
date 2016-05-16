@@ -60,7 +60,32 @@ $bg-color: rgba(221,221,186,1);
 .content {
   margin-top: 80px;
 }
+.post-date {
+  margin-bottom: 0;
+}
+.post-title {
+  display: inline-block;
+}
+.post-date {
+  float:right;
+  margin-top: 0;
+  font-size: 0.8rem;
+}
 ///end lanyon
+
+.tldnr {
+  font-size: 0.75rem;
+  .col {
+    width: 50%;
+    display: inline-block;
+  }
+  .text-right {
+    float:right;
+  }
+}
+.text-right {
+  text-align: right;
+}
 
 #search-container {
   input {
@@ -92,6 +117,7 @@ a {
 
 hr {
   border-color: lighten($fg-color, 30%);
+  margin: 1rem 0;
 }
 
 .imageWrap {

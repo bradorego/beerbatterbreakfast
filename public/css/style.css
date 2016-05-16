@@ -1152,6 +1152,28 @@ a.pagination-item:hover {
 .content {
   margin-top: 80px; }
 
+.post-date {
+  margin-bottom: 0; }
+
+.post-title {
+  display: inline-block; }
+
+.post-date {
+  float: right;
+  margin-top: 0;
+  font-size: 0.8rem; }
+
+.tldnr {
+  font-size: 0.75rem; }
+  .tldnr .col {
+    width: 50%;
+    display: inline-block; }
+  .tldnr .text-right {
+    float: right; }
+
+.text-right {
+  text-align: right; }
+
 #search-container input {
   width: 100%;
   padding: 5px;
@@ -1174,7 +1196,8 @@ a {
   color: #ac5835; }
 
 hr {
-  border-color: #ac5835; }
+  border-color: #ac5835;
+  margin: 1rem 0; }
 
 .imageWrap {
   margin: 0px auto 20px;
