@@ -6,5 +6,5 @@ title: Archive
 ## Blog Posts
 
 {% for post in site.posts %}
-  * [ {{ post.title }} ]({{ post.url }})
+  * <a href="{{post.url}}" target="_self">{{ post.title }}</a>
 {% endfor %}

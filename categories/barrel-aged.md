@@ -1,11 +1,11 @@
 ---
 layout: category
 title: Barrel Aged
-permalink: '/categories/barrel-aged.html'
+permalink: '/categories/barrel-aged'
 ---
 
 ## Blog Posts
 
 {% for post in site.categories['barrel aged'] %}
-  *  [ {{ post.title }} ]({{ post.url }})
+  * <a href="{{post.url}}"  target="_self">{{ post.title }}</a>
 {% endfor %}

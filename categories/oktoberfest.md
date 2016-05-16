@@ -1,11 +1,11 @@
 ---
 layout: category
 title: Oktoberfests (Marzen)
-permalink: '/categories/oktoberfest.html'
+permalink: '/categories/oktoberfest'
 ---
 
 ## Blog Posts
 
 {% for post in site.categories['oktoberfest'] %}
-  *  [ {{ post.title }} ]({{ post.url }})
+  * <a href="{{post.url}}"  target="_self">{{ post.title }}</a>
 {% endfor %}

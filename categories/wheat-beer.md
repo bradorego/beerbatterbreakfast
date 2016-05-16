@@ -1,11 +1,11 @@
 ---
 layout: category
 title: Wheat Beers (Weissbiers)
-permalink: '/categories/wheat-beer.html'
+permalink: '/categories/wheat-beer'
 ---
 
 ## Blog Posts
 
 {% for post in site.categories['wheat beer'] %}
-  * [ {{ post.title }} ]({{ post.url }})
+  * <a href="{{post.url}}"  target="_self">{{ post.title }}</a>
 {% endfor %}

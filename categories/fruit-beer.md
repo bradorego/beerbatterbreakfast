@@ -1,11 +1,11 @@
 ---
 layout: category
 title: Fruit Beers
-permalink: '/categories/fruit-beer.html'
+permalink: '/categories/fruit-beer'
 ---
 
 ## Blog Posts
 
 {% for post in site.categories['fruit beer'] %}
-  *  [ {{ post.title }} ]({{ post.url }})
+  * <a href="{{post.url}}"  target="_self">{{ post.title }}</a>
 {% endfor %}

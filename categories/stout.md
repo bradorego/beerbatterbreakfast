@@ -1,11 +1,11 @@
 ---
 layout: category
 title: Stouts (Porters)
-permalink: '/categories/stout.html'
+permalink: '/categories/stout'
 ---
 
 ## Blog Posts
 
 {% for post in site.categories['stout'] %}
-  * [ {{ post.title }} ]({{ post.url }})
+  * <a href="{{post.url}}"  target="_self">{{ post.title }}</a>
 {% endfor %}

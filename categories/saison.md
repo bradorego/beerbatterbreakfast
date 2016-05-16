@@ -1,11 +1,11 @@
 ---
 layout: category
 title: Saisons (Farmhouse Ales)
-permalink: '/categories/saison.html'
+permalink: '/categories/saison'
 ---
 
 ## Blog Posts
 
 {% for post in site.categories['saison'] %}
-  *  [ {{ post.title }} ]({{ post.url }})
+  * <a href="{{post.url}}"  target="_self">{{ post.title }}</a>
 {% endfor %}

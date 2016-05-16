@@ -15,7 +15,7 @@ layout: default
     {% for post in site.related_posts limit:5 %}
       <li>
         <h3>
-          <a href="{{ post.url }}">
+          <a href="{{ post.url }}" target="_self">
             {{ post.title }}
           </a>
         </h3>

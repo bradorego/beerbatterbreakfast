@@ -1,11 +1,11 @@
 ---
 layout: category
 title: IPAs (Pale Ales, APAs)
-permalink: '/categories/ipa.html'
+permalink: '/categories/ipa'
 ---
 
 ## Blog Posts
 
 {% for post in site.categories['ipa'] %}
-  *  [ {{ post.title }} ]({{ post.url }})
+  * <a href="{{post.url}}"  target="_self">{{ post.title }}</a>
 {% endfor %}

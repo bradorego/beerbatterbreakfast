@@ -1,11 +1,11 @@
 ---
 layout: category
 title: Ambers
-permalink: '/categories/amber.html'
+permalink: '/categories/amber'
 ---
 
 ## Blog Posts
 
 {% for post in site.categories['amber'] %}
-  * [ {{ post.title }} ]({{ post.url }})
+  * <a href="{{post.url}}"  target="_self">{{ post.title }}</a>
 {% endfor %}
