@@ -7,6 +7,15 @@ $bg-color: rgba(221,221,186,1);
 // $accent-color: rgba(252, 193, 67, 1);
 
 /// lanyon overrides
+.pagination {
+  color: lighten($bg-color, 10%);
+  .pagination-item {
+    border-color: lighten($fg-color, 30%);
+  }
+}
+
+
+
 #sidebar-checkbox:checked ~ .sidebar,
 #sidebar-checkbox:checked ~ .wrap,
 #sidebar-checkbox:checked ~ .sidebar-toggle,
