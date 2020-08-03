@@ -2,6 +2,7 @@
 layout: category
 title: Ciders
 permalink: '/categories/cider'
+eleventyExcludeFromCollections: true
 ---
 
 ## Blog Posts

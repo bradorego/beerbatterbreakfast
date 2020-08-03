@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Archive
+eleventyExcludeFromCollections: true
 ---
 
 ## Blog Posts
 
-{% for post in site.posts %}
-  * <a href="{{post.url}}" target="_self">{{ post.title }}</a>
+{% for post in collections.all %}
+  * <a href="{{post.url}}" target="_self">{{ post.data.title }}</a>
 {% endfor %}

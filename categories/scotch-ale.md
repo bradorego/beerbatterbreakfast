@@ -2,6 +2,7 @@
 layout: category
 title: Scotch Ales
 permalink: '/categories/scotch-ale'
+eleventyExcludeFromCollections: true
 ---
 
 ## Blog Posts

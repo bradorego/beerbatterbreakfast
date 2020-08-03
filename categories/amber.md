@@ -2,6 +2,7 @@
 layout: category
 title: Ambers
 permalink: '/categories/amber'
+eleventyExcludeFromCollections: true
 ---
 
 ## Blog Posts

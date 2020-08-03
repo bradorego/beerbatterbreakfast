@@ -2,6 +2,7 @@
 layout: category
 title: Fruit Beers
 permalink: '/categories/fruit-beer'
+eleventyExcludeFromCollections: true
 ---
 
 ## Blog Posts

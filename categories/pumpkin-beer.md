@@ -2,6 +2,7 @@
 layout: category
 title: Pumpkin Beers
 permalink: '/categories/pumpkin-beer'
+eleventyExcludeFromCollections: true
 ---
 
 ## Blog Posts

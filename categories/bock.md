@@ -2,6 +2,7 @@
 layout: category
 title: Bocks
 permalink: '/categories/bock'
+eleventyExcludeFromCollections: true
 ---
 
 ## Blog Posts

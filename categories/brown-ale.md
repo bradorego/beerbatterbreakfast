@@ -2,6 +2,7 @@
 layout: category
 title: Brown Ales
 permalink: '/categories/brown-ale'
+eleventyExcludeFromCollections: true
 ---
 
 ## Blog Posts

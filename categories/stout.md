@@ -2,6 +2,7 @@
 layout: category
 title: Stouts (Porters)
 permalink: '/categories/stout'
+eleventyExcludeFromCollections: true
 ---
 
 ## Blog Posts

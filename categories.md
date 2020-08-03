@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Categories
+eleventyExcludeFromCollections: true
 ---
 
 * <a href="amber" target="_self">Amber</a>

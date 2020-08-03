@@ -2,6 +2,7 @@
 layout: category
 title: IPAs (Pale Ales, APAs)
 permalink: '/categories/ipa'
+eleventyExcludeFromCollections: true
 ---
 
 ## Blog Posts

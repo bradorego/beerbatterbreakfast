@@ -2,6 +2,7 @@
 layout: category
 title: Oktoberfests (Marzen)
 permalink: '/categories/oktoberfest'
+eleventyExcludeFromCollections: true
 ---
 
 ## Blog Posts

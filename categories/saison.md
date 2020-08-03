@@ -2,6 +2,7 @@
 layout: category
 title: Saisons (Farmhouse Ales)
 permalink: '/categories/saison'
+eleventyExcludeFromCollections: true
 ---
 
 ## Blog Posts

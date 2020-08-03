@@ -2,6 +2,7 @@
 layout: category
 title: Wheat Beers (Weissbiers)
 permalink: '/categories/wheat-beer'
+eleventyExcludeFromCollections: true
 ---
 
 ## Blog Posts

@@ -2,6 +2,7 @@
 layout: category
 title: Sours
 permalink: '/categories/sour'
+eleventyExcludeFromCollections: true
 ---
 
 ## Blog Posts

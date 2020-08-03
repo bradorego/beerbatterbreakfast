@@ -2,6 +2,7 @@
 layout: category
 title: Barrel Aged
 permalink: '/categories/barrel-aged'
+eleventyExcludeFromCollections: true
 ---
 
 ## Blog Posts
