@@ -1,21 +1,27 @@
 ---
-layout: default
-title: Home
-eleventyExcludeFromCollections: true
+{
+  "layout": "default",
+  "title": "Home",
+  "eleventyExcludeFromCollections": true,
+  "pagination": {
+    "data": collections.posts-only-descending,
+    "size": 2,
+    "alias": "all-posts"
+  }
+}
 ---
 
 <div class="posts">
-  {% for post in collections.posts-only-descending %}
-    {% assign author = site.authors[post.author] %}
+  {% for post in all-posts %}
+    {% assign author = site.authors[post.data.author] %}
     <div class="post">
-      
       <h1 class="post-title">
         <a href="{{ post.url }}" target="_self">
           {{ post.data.title }}
         </a>
       </h1>
-      <span class="post-date">by {{ post.author.name }}</span>
-      {{ content }}
+      <span class="post-date">by {{ author.name }}</span>
+      {{post.templateContent}}
     </div>
   {% endfor %}
 </div>
