@@ -1,7 +1,7 @@
 ---
 title: Stone Arch Stout
 layout: post
-permalink: "/2016/06/stone-arch-stout"
+permalink: "/2016/06/stone-arch-stout/"
 date: "2016-06-19T10:27:00"
 tags: [stone arch, wisconsin, appleton, stout, vanilla stout,]
 author: bradorego

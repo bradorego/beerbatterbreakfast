@@ -1,7 +1,7 @@
 ---
 title: JP's Dunkelweiss
 layout: post
-permalink: "/2014/06/jp-dunkelweiss.html"
+permalink: "/2014/06/jp-dunkelweiss/"
 date: "2014-06-01T10:27:00"
 tags: [JP, curling, homebrew, dunkelweiss, Jesse Peterson, wheat beer, wisconsin]
 author: bradorego

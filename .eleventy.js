@@ -18,9 +18,9 @@ module.exports = function (eleventyConfig) {
     });
   });
 
-  eleventyConfig.addCollection("posts-only", function (collection) {
-    return collection.getFilteredByGlob("posts/*.md");
-  })
+  eleventyConfig.addCollection("posts-only-descending", function (collection) {
+    return collection.getFilteredByGlob("_posts/*.md").reverse();
+  });
 
   return {
     "dir": {

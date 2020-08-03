@@ -1,19 +1,21 @@
 ---
 layout: default
 title: Home
+eleventyExcludeFromCollections: true
 ---
 
 <div class="posts">
-  {% for post in pagination.items %}
+  {% for post in collections.posts-only-descending %}
     {% assign author = site.authors[post.author] %}
     <div class="post">
+      
       <h1 class="post-title">
         <a href="{{ post.url }}" target="_self">
-          {{ post.title }}
+          {{ post.data.title }}
         </a>
       </h1>
-      <span class="post-date">by {{ author.name }}</span>
-      {{ post.content }}
+      <span class="post-date">by {{ post.author.name }}</span>
+      {{ content }}
     </div>
   {% endfor %}
 </div>

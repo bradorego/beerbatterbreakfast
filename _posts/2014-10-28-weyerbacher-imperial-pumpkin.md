@@ -1,7 +1,7 @@
 ---
 title: Weyerbacher Imperial Pumpkin
 layout: post
-permalink: "/2014/10/weyerbacher-imperial-pumpkin.html"
+permalink: "/2014/10/weyerbacher-imperial-pumpkin/"
 date: "2014-10-28T10:27:00"
 tags: [pumpkin beer, imperial pumpkin, weyerbacher brewing company, pennsylvania]
 author: bradorego
