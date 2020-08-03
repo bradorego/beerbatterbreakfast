@@ -1,6 +1,7 @@
 {
   "title": "Beer Batter Breakfast",
   "url": "https://beerbatterbreakfast.com",
+  "description": "A blog about beer pancakes.",
   "baseurl": "/",
   "repo": "https://github.com/bradorego/beerbatterbreakfast",
   "comments": false,
