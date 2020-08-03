@@ -11,7 +11,7 @@ pancakes: "Yes"
 syrup: "No"
 ---
 
-{% include tldnr.html %}
+{% include "tldnr.html" %}
 
 Arguably one of their most popular/famous beers, Warped Speed is a delightful Scotch Ale from Lake Louie Brewing Company out of Arena, WI, just a little West of Madison.
 

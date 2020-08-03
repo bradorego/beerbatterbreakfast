@@ -11,7 +11,7 @@ pancakes: "N/A"
 syrup: "N/A"
 ---
 
-{% include tldnr.html %}
+{% include "tldnr.html" %}
 
 In case you were wondering, not this isn't my first homebrew post (search "homebrew" on the sidebar). In fact, this <a href="/2014/06/jp-dunkelweiss.html">isn't even the first beer</a> from this particular individual I've covered. JP previously sent a Dunkelweiss my way, and having seen what I did with it, was eager to put this beer to the test.
 

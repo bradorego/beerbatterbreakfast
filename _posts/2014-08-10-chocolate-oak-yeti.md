@@ -11,7 +11,7 @@ pancakes: "No"
 syrup: "Yes"
 ---
 
-{% include tldnr.html %}
+{% include "tldnr.html" %}
 
 Almost definitely the first/only beer I've had from Great Divide (though <a href="http://greatdivide.com/beer/seasonal/tank-farm/old-ruffian-barley-wine/" target="_blank">Old Ruffian</a> sounds familiar), this week's entry comes after a mini-hiatus thanks to <a href="http://www.chicagosandblast.com" target="_blank">Sandblast</a>. I was gifted this lovely bottle by my good friend Tiffany at a party back in Buffalo a few weeks ago. A Chocolate Oak-aged Imperial Stout sounds just delicious.
 

@@ -12,7 +12,7 @@ pancakes: "No"
 syrup: "No"
 ---
 
-{% include tldnr.html %}
+{% include "tldnr.html" %}
 
 The fun thing about buying lots of beer and keeping it in storage for awhile is when you finally get around to drinking it and you discover a) the brewery is never making anything like it ever again, or b) it was so wildly popular the brewery is expanding its production. In this case, Hello My Name Is Joe (HMNIJ) used to be a seasonal and is now a year-round offer from 3 Sheeps. I personally would take Ewephoria over HMNIJ in a heartbeat, but...so it goes.
 

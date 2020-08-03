@@ -11,7 +11,7 @@ pancakes: "No"
 syrup: "Yes"
 ---
 
-{% include tldnr.html %}
+{% include "tldnr.html" %}
 
 First things first, the name of this beer is awesome. <a href="https://img0.etsystatic.com/055/0/7092175/il_570xN.747418260_k48h.jpg" target="_blank">Obligatory Marshawn Lynch reference</a> (wait, he has his own clothing line now? That's a little ridiculous).
 

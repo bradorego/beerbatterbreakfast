@@ -11,7 +11,7 @@ pancakes: "No"
 syrup: "Yes"
 ---
 
-{% include tldnr.html %}
+{% include "tldnr.html" %}
 
 Dogfish Head is one of those breweries that I probably don't give enough credit to. This is probably due to how popular they are, but also might be because they're known for their IPAs, which I'm known for not liking. Midas Touch is one of those beers that defies convention, though, so in true BBB fashion, I knew I had to make pancakes of it.
 

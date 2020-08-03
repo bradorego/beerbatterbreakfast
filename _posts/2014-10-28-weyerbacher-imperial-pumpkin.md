@@ -11,7 +11,7 @@ pancakes: "Yes"
 syrup: "No"
 ---
 
-{% include tldnr.html %}
+{% include "tldnr.html" %}
 
 Pumpkin beer season this year has kept me unacceptably busy. The good news is I have a lot of pumpkin beer still to try (and to make pancakes out of). Today's entry is another new beer I discovered this year - <a href="http://www.weyerbacher.com/beers/seasonal/imperial-pumpkin-ale/" target="_blank">Imperial Pumpkin Ale</a> from Weyerbacher Brewing Company.
 

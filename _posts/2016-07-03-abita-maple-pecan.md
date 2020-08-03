@@ -11,7 +11,7 @@ pancakes: "Yes"
 syrup: "No"
 ---
 
-{% include tldnr.html %}
+{% include "tldnr.html" %}
 
 I feel like Abita is one of those breweries I have a love-hate relationship with. I've never been particularly fond of their flagships (though that might be the curling club's fault, considering we had it on tap constantly for the first year or two), but it seems that their specialty brews can be interesting, at least. So, of course, I bought some and put them in the beer cellar, and nearly a year later thought I should finally get around to making some pancakes.
 

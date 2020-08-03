@@ -11,7 +11,7 @@ pancakes: "No"
 syrup: "Yes"
 ---
 
-{% include tldnr.html %}
+{% include "tldnr.html" %}
 
 Destihl is another brewery that's relatively new to Wisconsin (or, at least, to me). Their Wild Sour series started popping up around town sometime last summer, and any time you put "sour" on a beer, you've got my attention. Looking at all 4 styles/options (Gose, Flanders Red, Berliner Weiss, Raspberry Berliner Weiss), I decided to go back to my roots and try the Flanders Red.
 

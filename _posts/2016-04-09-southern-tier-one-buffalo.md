@@ -11,7 +11,7 @@ pancakes: "Yes"
 syrup: "No"
 ---
 
-{% include tldnr.html %}
+{% include "tldnr.html" %}
 
 OneBuffalo is Southern Tier's attempt (I guess it's being dubbed a "collaboration" with Pegula Sports &amp; Entertainment) at creating a good "stadium beer". That is, something that's drinkable by the masses in a sports context. As a huge proponent of craft beer, I'm sad to see something like this dubbed as "the beer" of Buffalo, but so it goes.
 

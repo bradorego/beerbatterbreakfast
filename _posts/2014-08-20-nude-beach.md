@@ -11,7 +11,7 @@ pancakes: "Yes"
 syrup: "No"
 ---
 
-{% include tldnr.html %}
+{% include "tldnr.html" %}
 
 First things first, You have to love the name of this beer. It's really fun to talk about out of context, and I'm sure this post popping up in your news feed, RSS, etc. caught your eye. Today's beer comes to us from <a href="http://www.pointbeer.com" target="_blank">Stevens Point Brewery</a>. This <a href="http://beerbatterbreakfast.com/2013/10/whole-hog-pumpkin-ale.html" target="_blank">isn't the first Point beer</a> we've seen, but it's likely more noticeable and well-known than our previous.
 

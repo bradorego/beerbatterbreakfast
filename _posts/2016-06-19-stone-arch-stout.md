@@ -11,7 +11,7 @@ pancakes: "No"
 syrup: "No"
 ---
 
-{% include tldnr.html %}
+{% include "tldnr.html" %}
 
 Have you ever bought a beer while travelling only to come home and put it away and then completely forget you had it/meant to make beer pancakes out of it? I know, that last part happens to everyone I'm sure. <a href="http://www.stonecellarbrewpub.com/">Stone Arch</a> (Cellar? Their branding/website is confusing) is a brewpub in Appleton, WI. I got this beer last September when I was playing Sectionals in Appleton. When in Rome, right? But then it sat around in the cellar (no pun intended) for 9 months. A mere mortal may've given up on it, but not I.
 

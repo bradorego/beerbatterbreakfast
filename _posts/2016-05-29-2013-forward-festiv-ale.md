@@ -11,7 +11,7 @@ pancakes: "N/A"
 syrup: "N/A"
 ---
 
-{% include tldnr.html %}
+{% include "tldnr.html" %}
 
 While this week's entry isn't our only Mobcraft entry, it might be one of the most unique we've done so far. Every year, Madison has a week-long event filled with conferences, meetups, talks, and open houses, all centered around entrepreneurship. It's called <a href="http://forwardfest.org/">Forward Fest</a>. Every year since 2013, <a href="https://mobcraftbeer.com">MobCraft</a> has brewed a beer selected by the community to be that year's "Festive-Ale". They bottle a select few of them for festival attendees to garner one way or another.
 
