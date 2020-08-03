@@ -1,12 +1,11 @@
 ---
 layout: category
 title: Pumpkin Beers
-permalink: '/categories/pumpkin-beer'
-eleventyExcludeFromCollections: true
+tags: ["category"]
 ---
 
 ## Blog Posts
 
 {% for post in collections['pumpkin beer'] %}
-  * <a href="{{post.url}}"  target="_self">{{ post.title }}</a>
+  * {% include "simple-list-item-link.html", post:post %}
 {% endfor %}

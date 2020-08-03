@@ -1,11 +1,11 @@
 ---
 layout: category
-title: Wheat Beers (Weissbiers)
+title: Homebrew
 tags: ["category"]
 ---
 
 ## Blog Posts
 
-{% for post in collections['wheat beer'] %}
+{% for post in collections['homebrew'] %}
   * {% include "simple-list-item-link.html", post:post %}
 {% endfor %}

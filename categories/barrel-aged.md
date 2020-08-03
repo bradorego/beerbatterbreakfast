@@ -1,12 +1,11 @@
 ---
 layout: category
 title: Barrel Aged
-permalink: '/categories/barrel-aged'
-eleventyExcludeFromCollections: true
+tags: ["category"]
 ---
 
 ## Blog Posts
 
 {% for post in collections['barrel aged'] %}
-  * <a href="{{post.url}}"  target="_self">{{ post.title }}</a>
+  * {% include "simple-list-item-link.html", post:post %}
 {% endfor %}

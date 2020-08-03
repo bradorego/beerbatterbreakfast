@@ -1,12 +1,11 @@
 ---
 layout: category
 title: Brown Ales
-permalink: '/categories/brown-ale'
-eleventyExcludeFromCollections: true
+tags: ["category"]
 ---
 
 ## Blog Posts
 
 {% for post in collections['brown ale'] %}
-  * <a href="{{post.url}}"  target="_self">{{ post.title }}</a>
+  * {% include "simple-list-item-link.html", post:post %}
 {% endfor %}

@@ -1,12 +1,11 @@
 ---
 layout: category
 title: Saisons (Farmhouse Ales)
-permalink: '/categories/saison'
-eleventyExcludeFromCollections: true
+tags: ["category"]
 ---
 
 ## Blog Posts
 
 {% for post in collections['saison'] %}
-  * <a href="{{post.url}}"  target="_self">{{ post.title }}</a>
+  * {% include "simple-list-item-link.html", post:post %}
 {% endfor %}

@@ -1,12 +1,11 @@
 ---
 layout: category
 title: Oktoberfests (Marzen)
-permalink: '/categories/oktoberfest'
-eleventyExcludeFromCollections: true
+tags: ["category"]
 ---
 
 ## Blog Posts
 
 {% for post in collections['oktoberfest'] %}
-  * <a href="{{post.url}}"  target="_self">{{ post.title }}</a>
+  * {% include "simple-list-item-link.html", post:post %}
 {% endfor %}

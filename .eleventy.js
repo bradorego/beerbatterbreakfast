@@ -12,11 +12,21 @@ module.exports = function (eleventyConfig) {
     "dynamicPartials": true
   });
 
+  eleventyConfig.addCollection("sorted-category", function (collection) {
+    return collection.getFilteredByTag("category").sort(function (a, b) {
+      return a.data.title.localeCompare(b.data.title);
+    });
+  });
+
+  eleventyConfig.addCollection("posts-only", function (collection) {
+    return collection.getFilteredByGlob("posts/*.md");
+  })
+
   return {
     "dir": {
       "input": "./",
       "output": "./_site"
     },
-    "passthroughhFileCopy": true
+    "passthroughFileCopy": true
   }
 };
