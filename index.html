@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in pagination.items %}
     {% assign author = site.authors[post.author] %}
     <div class="post">
       <h1 class="post-title">
@@ -16,22 +16,5 @@ title: Home
       {{ post.content }}
     </div>
   {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}" target="_self">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}" target="_self">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}" target="_self">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
 </div>
 
