@@ -16,8 +16,8 @@ syrup: "No"
 First things first, You have to love the name of this beer. It's really fun to talk about out of context, and I'm sure this post popping up in your news feed, RSS, etc. caught your eye. Today's beer comes to us from <a href="http://www.pointbeer.com" target="_blank">Stevens Point Brewery</a>. This <a href="http://beerbatterbreakfast.com/2013/10/whole-hog-pumpkin-ale.html" target="_blank">isn't the first Point beer</a> we've seen, but it's likely more noticeable and well-known than our previous.
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/nudebeach/beer.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/nudebeach/beer.png" alt="If only the label matched the name..." />
+  <a href="{{ site.url }}/assets/full/nudebeach/beer.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/nudebeach/beer.jpg" alt="If only the label matched the name..." />
   </a>
   <figcaption>
     If only the label matched the name...
@@ -29,8 +29,8 @@ Nude Beach pours a light golden color and has a crisp, light, Summer-y wheat tas
 ## Prep/Cooking
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/nudebeach/batter.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/nudebeach/batter.png" alt="What a setup" />
+  <a href="{{ site.url }}/assets/full/nudebeach/batter.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/nudebeach/batter.jpg" alt="What a setup" />
   </a>
   <figcaption>
     What a setup
@@ -42,8 +42,8 @@ While I wasn't crazy about the beer itself, the batter more-than made up for it.
 ## Results
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/nudebeach/pancakes.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/nudebeach/pancakes.png" alt="A little rough thanks to the new equipment" />
+  <a href="{{ site.url }}/assets/full/nudebeach/pancakes.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/nudebeach/pancakes.jpg" alt="A little rough thanks to the new equipment" />
   </a>
   <figcaption>
     A little rough thanks to the new equipment
@@ -58,8 +58,8 @@ This review isn't exactly fair. As far as most beer pancakes go, these are delic
 * Syrup: No. I've never had this happen before. Usually syrup will do nothing or it will overpower the flavor. In this case, it just made them taste like regular pancakes (which, at this point, I can't imagine why anyone would want to eat, but hey, to each their own).
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/nudebeach/syrup.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/nudebeach/syrup.png" alt="Whyyyyyy" />
+  <a href="{{ site.url }}/assets/full/nudebeach/syrup.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/nudebeach/syrup.jpg" alt="Whyyyyyy" />
   </a>
   <figcaption>
     Whyyyyyy

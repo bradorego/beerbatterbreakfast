@@ -16,8 +16,8 @@ syrup: "No"
 Arguably one of their most popular/famous beers, Warped Speed is a delightful Scotch Ale from Lake Louie Brewing Company out of Arena, WI, just a little West of Madison.
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/lakelouie/beer.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/lakelouie/beer.png" alt="You'd think they'd line up the two labels..." />
+  <a href="{{ site.url }}/assets/full/lakelouie/beer.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/lakelouie/beer.jpg" alt="You'd think they'd line up the two labels..." />
   </a>
   <figcaption>
     You'd think they'd line up the two labels...
@@ -29,8 +29,8 @@ Warped Speed is probably most famous for its alcohol content (which is also poss
 ## Prep/Cooking
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/lakelouie/batter.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/lakelouie/batter.png" alt="Way lighter in batter form than beer" />
+  <a href="{{ site.url }}/assets/full/lakelouie/batter.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/lakelouie/batter.jpg" alt="Way lighter in batter form than beer" />
   </a>
   <figcaption>
     Way lighter in batter form than beer
@@ -42,8 +42,8 @@ I was first (and most) stricken by the color of the batter. The beer pours a dee
 ## Results
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/lakelouie/pancakes.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/lakelouie/pancakes.png" alt="Prepare yourself" />
+  <a href="{{ site.url }}/assets/full/lakelouie/pancakes.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/lakelouie/pancakes.jpg" alt="Prepare yourself" />
   </a>
   <figcaption>
     Prepare yourself
@@ -58,8 +58,8 @@ I wasn't sure what to expect of these pancakes, especially when I first started 
 * Syrup: No. It didn't really help or harm here. I don't think it's worth it from that standpoint.
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/lakelouie/syrup.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/lakelouie/syrup.png" alt="Neither here nor there" />
+  <a href="{{ site.url }}/assets/full/lakelouie/syrup.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/lakelouie/syrup.jpg" alt="Neither here nor there" />
   </a>
   <figcaption>
     Neither here nor there

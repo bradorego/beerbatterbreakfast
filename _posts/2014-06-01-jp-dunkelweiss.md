@@ -10,8 +10,8 @@ author: bradorego
 I love doing posts about homebrews. It's completely pointless for the vast majority of the audience, but it's always fun to do something special with something special someone special gave to you. Today's entry is a bottle I've been sitting on for awhile - all the way back to <a href="http://madisoncurlingclub.com" target="_blank">curling</a> season. One of my good curling buddies JP gave me a few bottles of a Dunkelweiss he made a few months ago, so naturally it becomes pancakes.
 
 <figure class="imageWrap">
-	<a href="{{ site.url }}/assets/full/jpdunkelweiss/beer.png" target="_blank">
-		<img src="{{ site.url }}/assets/compressed/jpdunkelweiss/beer.png" alt="At least I think/hope that means Dunkelweiss..." />
+	<a href="{{ site.url }}/assets/full/jpdunkelweiss/beer.jpg" target="_blank">
+		<img src="{{ site.url }}/assets/compressed/jpdunkelweiss/beer.jpg" alt="At least I think/hope that means Dunkelweiss..." />
 	</a>
 	<figcaption>
 		At least I think/hope that means Dunkelweiss...
@@ -23,8 +23,8 @@ This dunkelweiss comes in with a crisp, light wheaty flavor and beautiful golden
 ## Prep/Cooking
 
 <figure class="imageWrap">
-	<a href="{{ site.url }}/assets/full/jpdunkelweiss/batter.png" target="_blank">
-		<img src="{{ site.url }}/assets/compressed/jpdunkelweiss/batter.png" alt="Can't you just see the biscuit-y goodness?" />
+	<a href="{{ site.url }}/assets/full/jpdunkelweiss/batter.jpg" target="_blank">
+		<img src="{{ site.url }}/assets/compressed/jpdunkelweiss/batter.jpg" alt="Can't you just see the biscuit-y goodness?" />
 	</a>
 	<figcaption>
 		Can't you just see the biscuit-y goodness?
@@ -36,8 +36,8 @@ One of the first things I noticed about both the aroma and flavor of this batter
 ## Results
 
 <figure class="imageWrap">
-	<a href="{{ site.url }}/assets/full/jpdunkelweiss/pancakes.png" target="_blank">
-		<img src="{{ site.url }}/assets/compressed/jpdunkelweiss/pancakes.png" alt="Some fine-looking flapjacks right there" />
+	<a href="{{ site.url }}/assets/full/jpdunkelweiss/pancakes.jpg" target="_blank">
+		<img src="{{ site.url }}/assets/compressed/jpdunkelweiss/pancakes.jpg" alt="Some fine-looking flapjacks right there" />
 	</a>
 	<figcaption>
 		Some fine-looking flapjacks right there
@@ -51,8 +51,8 @@ As with most wheat beers, the DW kept a lot of its sweetness and wheat flavors (
 As with other homebrews, I'm going to break format. As a homebrew, you'll likely never get your hands on this, so making a recommendation as to whether or not you should make pancakes out of is silly. I would like to take this time to thank JP for the bottles, and encourage all of you out there to get into homebrewing. It's awesome.
 
 <figure class="imageWrap">
-	<a href="{{ site.url }}/assets/full/jpdunkelweiss/syrup.png" target="_blank">
-		<img src="{{ site.url }}/assets/compressed/jpdunkelweiss/syrup.png" alt="Does the beard proud" />
+	<a href="{{ site.url }}/assets/full/jpdunkelweiss/syrup.jpg" target="_blank">
+		<img src="{{ site.url }}/assets/compressed/jpdunkelweiss/syrup.jpg" alt="Does the beard proud" />
 	</a>
 	<figcaption>
 		Does the beard proud

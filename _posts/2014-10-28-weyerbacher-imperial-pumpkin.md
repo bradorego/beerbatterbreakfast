@@ -16,8 +16,8 @@ syrup: "No"
 Pumpkin beer season this year has kept me unacceptably busy. The good news is I have a lot of pumpkin beer still to try (and to make pancakes out of). Today's entry is another new beer I discovered this year - <a href="http://www.weyerbacher.com/beers/seasonal/imperial-pumpkin-ale/" target="_blank">Imperial Pumpkin Ale</a> from Weyerbacher Brewing Company.
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/weyerbacherimperialpumpkin/beer.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/weyerbacherimperialpumpkin/beer.png" alt="Quite the jokerface we have here." />
+  <a href="{{ site.url }}/assets/full/weyerbacherimperialpumpkin/beer.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/weyerbacherimperialpumpkin/beer.jpg" alt="Quite the jokerface we have here." />
   </a>
   <figcaption>
     Quite the jokerface we have here.
@@ -29,8 +29,8 @@ The Imperial Pumpkin Ale is a big-bodied, boozy, bouquet of a beer, clocking it 
 ## Prep/Cooking
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/weyerbacherimperialpumpkin/batter.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/weyerbacherimperialpumpkin/batter.png" alt="Moan #2? 3?" />
+  <a href="{{ site.url }}/assets/full/weyerbacherimperialpumpkin/batter.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/weyerbacherimperialpumpkin/batter.jpg" alt="Moan #2? 3?" />
   </a>
   <figcaption>
     Moan #2? 3?
@@ -42,8 +42,8 @@ This beer certain takes the (pan)cake when it comes to batter. I've never tasted
 ## Results
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/weyerbacherimperialpumpkin/pancakes.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/weyerbacherimperialpumpkin/pancakes.png" alt="Interesting cooking pattern on the pancakes..." />
+  <a href="{{ site.url }}/assets/full/weyerbacherimperialpumpkin/pancakes.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/weyerbacherimperialpumpkin/pancakes.jpg" alt="Interesting cooking pattern on the pancakes..." />
   </a>
   <figcaption>
     Interesting cooking pattern on the pancakes...
@@ -58,8 +58,8 @@ Saying these pancakes were a bit of a disappointment seems wrong, because they w
 * Syrup: No. Once again, syrup just covered up any interesting flavors.
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/weyerbacherimperialpumpkin/syrup.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/weyerbacherimperialpumpkin/syrup.png" alt="What? I'm definitely not drinking out of a Coors Light glass..." />
+  <a href="{{ site.url }}/assets/full/weyerbacherimperialpumpkin/syrup.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/weyerbacherimperialpumpkin/syrup.jpg" alt="What? I'm definitely not drinking out of a Coors Light glass..." />
   </a>
   <figcaption>
     What? I'm definitely not drinking out of a Coors Light glass...

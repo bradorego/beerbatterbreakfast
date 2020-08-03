@@ -16,8 +16,8 @@ syrup: "No"
 I've really been slacking on the pumpkin beer front so far this year. It's usually the thing I look forward to the most (hence having my own private pumpkin beer reserve), but for whatever reason I've dropped the ball. Maybe it's just here in Wisconsin, but it seems like there are way more pumpkin beers this year than in years past, so I'm basically in heaven with all of the new stuff to try. Speaking of new pumpkin beer, <a href="http://www.newglarusbrewing.com" target="_blank">New Glarus</a> just tossed their hat into the ring and released Pumpkin Pie Lust.
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/pumpkinpielust/beer.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/pumpkinpielust/beer.png" alt="Digging the orange-and-brown thing going on here." />
+  <a href="{{ site.url }}/assets/full/pumpkinpielust/beer.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/pumpkinpielust/beer.jpg" alt="Digging the orange-and-brown thing going on here." />
   </a>
   <figcaption>
     Digging the orange-and-brown thing going on here.
@@ -29,8 +29,8 @@ Pumpkin Pie Lust is self-described as a "Pumpkin Weiss" beer, being composed of 
 ## Prep/Cooking
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/pumpkinpielust/batter.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/pumpkinpielust/batter.png" alt="No, I don't suck at pouring beer. This beer is just super heady." />
+  <a href="{{ site.url }}/assets/full/pumpkinpielust/batter.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/pumpkinpielust/batter.jpg" alt="No, I don't suck at pouring beer. This beer is just super heady." />
   </a>
   <figcaption>
     No, I don't suck at pouring beer. This beer is just super heady.
@@ -42,8 +42,8 @@ The first thing I noticed about the batter is how much the spices came through, 
 ## Results
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/pumpkinpielust/pancakes.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/pumpkinpielust/pancakes.png" alt="I really like the camera angle here." />
+  <a href="{{ site.url }}/assets/full/pumpkinpielust/pancakes.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/pumpkinpielust/pancakes.jpg" alt="I really like the camera angle here." />
   </a>
   <figcaption>
     I really like the camera angle here.
@@ -58,8 +58,8 @@ Given some of the other pumpkin beer I've covered here, I hate to say that this 
 * Syrup: No. Sometimes syrup can make or break a beer. In this case, it just masked everything. I guess it couldn't've gotten much worse, but if you wanted to actually taste the pancake, syrup on this is not the way to go.
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/pumpkinpielust/syrup.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/pumpkinpielust/syrup.png" alt="Glisteningly disappointing" />
+  <a href="{{ site.url }}/assets/full/pumpkinpielust/syrup.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/pumpkinpielust/syrup.jpg" alt="Glisteningly disappointing" />
   </a>
   <figcaption>
     Glisteningly disappointing

@@ -10,8 +10,8 @@ author: bradorego
 When I first came across this beer, it was one of those things that I had to try. I was at <a href="http://starliquor.com" target="_blank">Star Liquor</a> one day looking through the cooler when I came across two interesting seasonals from <a href="http://www.3sheepsbrewing.com" target="_blank">3 Sheeps Brewing</a>. I don't even remember what the other one was, but I couldn't resist something called "Ginger Chocolate Stout".
 
 <figure class="imageWrap">
-	<a href="{{ site.url }}/assets/full/ewephoria/beer.png" target="_blank">
-		<img src="{{ site.url }}/assets/compressed/ewephoria/beer.png" alt="Did somebody say Chocolate Ginger Stout?" />
+	<a href="{{ site.url }}/assets/full/ewephoria/beer.jpg" target="_blank">
+		<img src="{{ site.url }}/assets/compressed/ewephoria/beer.jpg" alt="Did somebody say Chocolate Ginger Stout?" />
 	</a>
 	<figcaption>
 		Did somebody say Chocolate Ginger Stout?
@@ -23,8 +23,8 @@ The beer itself is wonderful. It's the perfect balance of gigner, cocoa, and dar
 ## Prep/Cooking
 
 <figure class="imageWrap">
-	<a href="{{ site.url }}/assets/full/ewephoria/batter.png" target="_blank">
-		<img src="{{ site.url }}/assets/compressed/ewephoria/batter.png" alt="Like candy" />
+	<a href="{{ site.url }}/assets/full/ewephoria/batter.jpg" target="_blank">
+		<img src="{{ site.url }}/assets/compressed/ewephoria/batter.jpg" alt="Like candy" />
 	</a>
 	<figcaption>
 		Like candy
@@ -38,8 +38,8 @@ In terms of flavor, the batter got a little sweeter than the beer was, which rea
 ## Results
 
 <figure class="imageWrap">
-	<a href="{{ site.url }}/assets/full/ewephoria/pancakes.png" target="_blank">
-		<img src="{{ site.url }}/assets/compressed/ewephoria/pancakes.png" alt="I love the color on these. And the smell." />
+	<a href="{{ site.url }}/assets/full/ewephoria/pancakes.jpg" target="_blank">
+		<img src="{{ site.url }}/assets/compressed/ewephoria/pancakes.jpg" alt="I love the color on these. And the smell." />
 	</a>
 	<figcaption>
 		I love the color on these. And the smell.
@@ -54,8 +54,8 @@ This will definitely go down as one of the most interesting and incredible panca
 * Syrup: 2. I was actually worried the syrup would ruin these but it didn't. They were still great.
 
 <figure class="imageWrap">
-	<a href="{{ site.url }}/assets/full/ewephoria/syrup.png" target="_blank">
-		<img src="{{ site.url }}/assets/compressed/ewephoria/syrup.png" alt="Hooray for not-ruined pancakes!" />
+	<a href="{{ site.url }}/assets/full/ewephoria/syrup.jpg" target="_blank">
+		<img src="{{ site.url }}/assets/compressed/ewephoria/syrup.jpg" alt="Hooray for not-ruined pancakes!" />
 	</a>
 	<figcaption>
 		Hooray for not-ruined pancakes!

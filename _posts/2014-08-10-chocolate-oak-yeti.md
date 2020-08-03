@@ -16,8 +16,8 @@ syrup: "Yes"
 Almost definitely the first/only beer I've had from Great Divide (though <a href="http://greatdivide.com/beer/seasonal/tank-farm/old-ruffian-barley-wine/" target="_blank">Old Ruffian</a> sounds familiar), this week's entry comes after a mini-hiatus thanks to <a href="http://www.chicagosandblast.com" target="_blank">Sandblast</a>. I was gifted this lovely bottle by my good friend Tiffany at a party back in Buffalo a few weeks ago. A Chocolate Oak-aged Imperial Stout sounds just delicious.
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/chocolateoakyeti/beer.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/chocolateoakyeti/beer.png" alt="ALL the adjectives" />
+  <a href="{{ site.url }}/assets/full/chocolateoakyeti/beer.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/chocolateoakyeti/beer.jpg" alt="ALL the adjectives" />
   </a>
   <figcaption>
     ALL the adjectives
@@ -29,8 +29,8 @@ To be completely honest, I've become somewhat weary of dark big beers when it co
 ## Prep/Cooking
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/chocolateoakyeti/batter.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/chocolateoakyeti/batter.png" alt="Looks like chocolate. Tastes like...." />
+  <a href="{{ site.url }}/assets/full/chocolateoakyeti/batter.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/chocolateoakyeti/batter.jpg" alt="Looks like chocolate. Tastes like...." />
   </a>
   <figcaption>
     Looks like chocolate. Tastes like....
@@ -42,8 +42,8 @@ Almost definitely the best part of this process (spoiler alert?), the batter was
 ## Results
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/chocolateoakyeti/pancakes.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/chocolateoakyeti/pancakes.png" alt="Competing for the title of Darkest Pancakes, apparently" />
+  <a href="{{ site.url }}/assets/full/chocolateoakyeti/pancakes.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/chocolateoakyeti/pancakes.jpg" alt="Competing for the title of Darkest Pancakes, apparently" />
   </a>
   <figcaption>
     Competing for the title of Darkest Pancakes, apparently
@@ -58,8 +58,8 @@ In terms of flavor, the exact opposite happened to the pancakes that did to the 
 * Syrup: Yes. I'm honestly not sure how I feel about syrup. This is one of the rare beers that the flavor actually stands up to the syrup's sweetness, but I couldn't make up my mind if that's a good thing or not. I'd say try it for yourself.
 
 <figure class="imageWrap">
-  <a href="{{ site.url }}/assets/full/chocolateoakyeti/syrup.png" target="_blank">
-    <img src="{{ site.url }}/assets/compressed/chocolateoakyeti/syrup.png" alt="Choose your own adventure" />
+  <a href="{{ site.url }}/assets/full/chocolateoakyeti/syrup.jpg" target="_blank">
+    <img src="{{ site.url }}/assets/compressed/chocolateoakyeti/syrup.jpg" alt="Choose your own adventure" />
   </a>
   <figcaption>
     Choose your own adventure
