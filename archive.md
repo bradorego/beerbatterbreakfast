@@ -4,8 +4,8 @@ title: Archive
 eleventyExcludeFromCollections: true
 ---
 
-## Blog Posts
+## All Posts
 
-{% for post in collections.all %}
-  * <a href="{{post.url}}" target="_self">{{ post.data.title }}</a>
+{% for post in collections.posts-only-descending %}
+  * {% include "simple-list-item-link.html", post:post %}
 {% endfor %}

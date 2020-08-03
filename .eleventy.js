@@ -19,7 +19,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addCollection("posts-only-descending", function (collection) {
-    return collection.getFilteredByGlob("_posts/*.md").reverse();
+    return collection.getFilteredByGlob("_posts/*").reverse();
   });
 
   return {
