@@ -3,7 +3,7 @@ title: Dark Horse Fore
 layout: post
 permalink: "/2015/08/fore-smoked.html"
 date: "2015-08-17 8:49:00"
-categories: [porter, stout, fore, smoked stout, Dark Horse, Dark Horse Brewing Company, Michigan]
+tags: [porter, stout, fore, smoked stout, Dark Horse, Dark Horse Brewing Company, Michigan]
 author: bradorego
 type: Smoked Stout
 brewery: Dark Horse Brewing Company

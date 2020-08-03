@@ -6,6 +6,6 @@ permalink: '/categories/pumpkin-beer'
 
 ## Blog Posts
 
-{% for post in site.categories['pumpkin beer'] %}
+{% for post in collections['pumpkin beer'] %}
   * <a href="{{post.url}}"  target="_self">{{ post.title }}</a>
 {% endfor %}

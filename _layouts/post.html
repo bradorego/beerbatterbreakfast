@@ -18,7 +18,7 @@ layout: default
             {{ post.title }}
           </a>
         </h3>
-        <small>Tags: {% for tag in post.categories %} {{tag}} {% endfor %}</small>
+        <small>Tags: {% for tag in collections %} {{tag}} {% endfor %}</small>
       </li>
     {% endfor %}
   </ul>

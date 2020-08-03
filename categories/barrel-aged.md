@@ -6,6 +6,6 @@ permalink: '/categories/barrel-aged'
 
 ## Blog Posts
 
-{% for post in site.categories['barrel aged'] %}
+{% for post in collections['barrel aged'] %}
   * <a href="{{post.url}}"  target="_self">{{ post.title }}</a>
 {% endfor %}

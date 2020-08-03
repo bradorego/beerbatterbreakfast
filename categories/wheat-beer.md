@@ -6,6 +6,6 @@ permalink: '/categories/wheat-beer'
 
 ## Blog Posts
 
-{% for post in site.categories['wheat beer'] %}
+{% for post in collections['wheat beer'] %}
   * <a href="{{post.url}}"  target="_self">{{ post.title }}</a>
 {% endfor %}

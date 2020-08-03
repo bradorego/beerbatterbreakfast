@@ -3,7 +3,7 @@ title: Stone Arch Stout
 layout: post
 permalink: "/2016/06/stone-arch-stout"
 date: "2016-06-19 10:27:00"
-categories: [stone arch, wisconsin, appleton, stout, vanilla stout,]
+tags: [stone arch, wisconsin, appleton, stout, vanilla stout,]
 author: bradorego
 type: Stout
 brewery: Stone Arch

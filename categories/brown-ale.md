@@ -6,6 +6,6 @@ permalink: '/categories/brown-ale'
 
 ## Blog Posts
 
-{% for post in site.categories['brown ale'] %}
+{% for post in collections['brown ale'] %}
   * <a href="{{post.url}}"  target="_self">{{ post.title }}</a>
 {% endfor %}

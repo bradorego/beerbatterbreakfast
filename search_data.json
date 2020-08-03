@@ -5,7 +5,7 @@ layout: null
   {% for post in site.posts %}
   {
     "title"    : "{{ post.title }}",
-    "tags"     : "{{ post.categories | join: ', ' }}",
+    "tags"     : "{{ post.tags | join: ', ' }}",
     "author": "{{ post.author | xml_escape }}",
     "url"      : "{{ post.url }}",
     "date"     : "{{ post.date | date: '%B %d, %Y'  }}"

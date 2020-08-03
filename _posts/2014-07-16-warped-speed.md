@@ -3,7 +3,7 @@ title: Warped Speed
 layout: post
 permalink: "/2014/07/warped-speed.html"
 date: "2014-07-16 10:27:00"
-categories: [warped speed, scotch ale, lake louie brewing company, wisconsin]
+tags: [warped speed, scotch ale, lake louie brewing company, wisconsin]
 author: bradorego
 type: Scotch Ale
 brewery: Lake Louie Brewing Company

@@ -6,6 +6,6 @@ permalink: '/categories/saison'
 
 ## Blog Posts
 
-{% for post in site.categories['saison'] %}
+{% for post in collections['saison'] %}
   * <a href="{{post.url}}"  target="_self">{{ post.title }}</a>
 {% endfor %}

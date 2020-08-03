@@ -6,6 +6,6 @@ permalink: '/categories/oktoberfest'
 
 ## Blog Posts
 
-{% for post in site.categories['oktoberfest'] %}
+{% for post in collections['oktoberfest'] %}
   * <a href="{{post.url}}"  target="_self">{{ post.title }}</a>
 {% endfor %}

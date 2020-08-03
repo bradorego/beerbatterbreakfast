@@ -3,7 +3,7 @@ title: Pumpkin Pie Lust
 layout: post
 permalink: "/2014/10/pumpkin-pie-lust.html"
 date: "2014-10-05 10:27:00"
-categories: [pumpkin beer, pumpkin pie lust, new glarus, wisconsin, new glarus brewing company]
+tags: [pumpkin beer, pumpkin pie lust, new glarus, wisconsin, new glarus brewing company]
 author: bradorego
 type: Pumpkin Ale
 brewery: New Glarus

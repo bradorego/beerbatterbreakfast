@@ -3,7 +3,7 @@ title: 2014 Forward Festive-ale
 layout: post
 permalink: "/2016/05/2014-festive-ale"
 date: "2016-05-29 10:27:00"
-categories: [mobcraft, mobcraft beer, wisconsin, forward fest, ipa]
+tags: [mobcraft, mobcraft beer, wisconsin, forward fest, ipa]
 author: bradorego
 type: IPA
 brewery: Mobcraft Beer

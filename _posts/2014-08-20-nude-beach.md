@@ -3,7 +3,7 @@ title: Nude Beach
 layout: post
 permalink: "/2014/08/nude-beach.html"
 date: "2014-08-20 10:27:00"
-categories: [nude beach, summer wheat, wheat beer, stevens point, stevens point brewery, wisconsin]
+tags: [nude beach, summer wheat, wheat beer, stevens point, stevens point brewery, wisconsin]
 author: bradorego
 type: Summer Wheat
 brewery: Stevens Point Brewery

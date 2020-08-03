@@ -3,7 +3,7 @@ title: 3 Sheeps Hello My Name Is Joe
 layout: post
 permalink: "/2016/05/hello-my-name-is-joe/"
 date: "2016-05-01 8:49:00"
-categories: [3 Sheeps Brewing Company, Sheboygan, Wisconsin, imperial black wheat coffee ale, coffee ale, wheat beer]
+tags: [3 Sheeps Brewing Company, Sheboygan, Wisconsin, imperial black wheat coffee ale, coffee ale, wheat beer]
 author: bradorego
 
 type: Imperial Black Wheat

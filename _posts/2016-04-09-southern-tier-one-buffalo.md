@@ -3,7 +3,7 @@ title: Southern Tier One Buffalo
 layout: post
 permalink: "/2016/04/one-buffalo/"
 date: "2016-04-09 8:49:00"
-categories: [Southern Tier Brewing Company, New York, One Buffalo, blone ale, saison]
+tags: [Southern Tier Brewing Company, New York, One Buffalo, blone ale, saison]
 author: bradorego
 type: Blonde Ale
 brewery: Southern Tier Brewing Copmany

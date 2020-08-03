@@ -3,7 +3,7 @@ title: Lloyd's Christmas Ale
 layout: post
 permalink: "/2016/05/lloyd-christmas-ale/"
 date: "2016-05-08 8:49:00"
-categories: [Ellicotville Brewing Company, LLoyd's, New York, christmas ale, winter warmer, brown ale, craft beer week]
+tags: [Ellicotville Brewing Company, LLoyd's, New York, christmas ale, winter warmer, brown ale, craft beer week]
 author: bradorego
 type: Christmas Ale
 brewery: Ellicotville Brewing Company
