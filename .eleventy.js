@@ -1,14 +1,18 @@
-module.exports = function (config) {
+module.exports = function (eleventyConfig) {
 
-  config.addLayoutAlias("category", "_layouts/category.html");
-  config.addLayoutAlias("default", "_layouts/default.html");
-  config.addLayoutAlias("page", "_layouts/page.html");
-  config.addLayoutAlias("post", "_layouts/post.html");
+  eleventyConfig.addLayoutAlias("default", "layouts/default.html");
+  eleventyConfig.addLayoutAlias("category", "layouts/category.html");
+  eleventyConfig.addLayoutAlias("page", "layouts/page.html");
+  eleventyConfig.addLayoutAlias("post", "layouts/post.html");
+
+  eleventyConfig.addPassthroughCopy('assets');
+  eleventyConfig.addPassthroughCopy('public');
 
   return {
     "dir": {
       "input": "./",
       "output": "./_site"
-    }
+    },
+    "passthroughhFileCopy": true
   }
 };
