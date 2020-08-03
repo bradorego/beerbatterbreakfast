@@ -66,4 +66,4 @@ These pancakes came out surprisingly dense given how flat both the beer and the 
   </figcaption>
 </figure>
 
-{% include twitter.html tweetAt=" from @stbcbeer" %}
+{% include "twitter.html", tweetAt:" from @stbcbeer" %}

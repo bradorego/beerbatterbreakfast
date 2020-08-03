@@ -66,4 +66,4 @@ Thick head. Thick batter. Thick pancakes. Well, maybe thick is the wrong word fo
   </figcaption>
 </figure>
 
-{% include twitter.html tweetAt=" from @EBCwny" %}
+{% include "twitter.html", tweetAt:" from @EBCwny" %}

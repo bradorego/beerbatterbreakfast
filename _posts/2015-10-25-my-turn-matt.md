@@ -66,4 +66,4 @@ Wow, okay. These might be the most complex pancakes I've had flavor-wise. Layers
   </figcaption>
 </figure>
 
-{% include twitter.html tweetAt=" from @lakefront" %}
+{% include "twitter.html", tweetAt:" from @lakefront" %}

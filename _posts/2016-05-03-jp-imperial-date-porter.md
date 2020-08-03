@@ -67,4 +67,4 @@ At first I was reluctant to add syrup at all given how rich and complex the panc
   </figcaption>
 </figure>
 
-{% include twitter.html tweetAt=" from @cheaptoyJP" %}
+{% include "twitter.html", tweetAt:" from @cheaptoyJP" %}

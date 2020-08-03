@@ -66,4 +66,4 @@ This review isn't exactly fair. As far as most beer pancakes go, these are delic
   </figcaption>
 </figure>
 
-{% include twitter.html tweetAt=" from @pointbrewery" %}
+{% include "twitter.html", tweetAt:" from @pointbrewery" %}

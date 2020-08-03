@@ -66,4 +66,4 @@ In terms of flavor, the exact opposite happened to the pancakes that did to the 
   </figcaption>
 </figure>
 
-{% include twitter.html tweetAt=" from @GreatDivideBrew" %}
+{% include "twitter.html", tweetAt:" from @GreatDivideBrew" %}

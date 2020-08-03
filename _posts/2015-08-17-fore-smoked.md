@@ -68,4 +68,4 @@ These pancakes turned out surprisingly delightful. They weren't at all smoky lik
 
 Also, a brief Public Service Announcement about making smoked beer pancakes: Make sure you don't overcook them at all. A few of the pancakes in this batch were a little more well-done than others and you can definitely tell the difference with a delicate flavor like smokiness.
 
-{% include twitter.html tweetAt=" from @darkhorsebrewco" %}
+{% include "twitter.html", tweetAt:" from @darkhorsebrewco" %}

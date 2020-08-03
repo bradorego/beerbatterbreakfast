@@ -66,4 +66,4 @@ Saying these pancakes were a bit of a disappointment seems wrong, because they w
   </figcaption>
 </figure>
 
-{% include twitter.html tweetAt=" from @weyerbacher" %}
+{% include "twitter.html", tweetAt:" from @weyerbacher" %}
