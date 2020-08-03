@@ -2,7 +2,7 @@
 title: Lakefront My Turn&#58; Matt
 layout: post
 permalink: "/2015/10/my-turn-matt.html"
-date: "2015-10-25 8:49:00"
+date: "2015-10-25T08:49:00"
 tags: [Lakefront Brewery, Wisconsin, farmhouse ale, saison, barrel aged, oak aged farmhouse red ale]
 author: bradorego
 type: Oak Aged Farmhouse Red Ale

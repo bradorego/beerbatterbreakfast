@@ -2,7 +2,7 @@
 title: Chocolate Oak Yeti
 layout: post
 permalink: "/2014/08/chocolate-oak-yeti.html"
-date: "2014-08-10 10:27:00"
+date: "2014-08-10T10:27:00"
 tags: [chocolate, oak, yeti, imperial stout, chocolate oak yeti, Great Divide Brewing Company, Great Divide, Denver, Colorado, stout, barrel aged]
 author: bradorego
 type: Imperial Stout

@@ -2,7 +2,7 @@
 title: Abita Maple Pecan
 layout: post
 permalink: "/2016/07/abita-maple-pecan"
-date: "2016-07-03 10:27:00"
+date: "2016-07-03T10:27:00"
 tags: [abita brewing company, maple pecan, barrel aged, brown ale, louisiana, ]
 author: bradorego
 type: Barrel-Aged Brown Ale

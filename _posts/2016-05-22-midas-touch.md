@@ -2,7 +2,7 @@
 title: Midas Touch
 layout: post
 permalink: "/2016/05/midas-touch"
-date: "2016-05-22 10:27:00"
+date: "2016-05-22T10:27:00"
 tags: [dogfish head brewing company, delaware, ancient ale, honey, saffron, barley, wheat beer]
 author: bradorego
 type: Ancient Ale

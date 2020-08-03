@@ -2,7 +2,7 @@
 title: Beast Mode
 layout: post
 permalink: "/2015/07/beast-mode.html"
-date: "2015-07-15 8:49:00"
+date: "2015-07-15T08:49:00"
 tags: [porter, stout, beast mode, Six Point, Six Point Brewery, Brooklyn, New York]
 author: bradorego
 type: American Porter

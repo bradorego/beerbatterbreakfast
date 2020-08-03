@@ -2,7 +2,7 @@
 title: Tallgrass Ginger Peach Saison
 layout: post
 permalink: "/2016/04/ginger-peach/"
-date: "2016-04-02 8:49:00"
+date: "2016-04-02T08:49:00"
 tags: [Tallgrass Brewing Company, Kansas, ginger peach, saison]
 author: bradorego
 type: Saison

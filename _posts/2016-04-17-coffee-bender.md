@@ -2,7 +2,7 @@
 title: Surly Coffee Bender
 layout: post
 permalink: "/2016/04/coffee-bender/"
-date: "2016-04-17 8:49:00"
+date: "2016-04-17T08:49:00"
 tags: [Surly Brewing Company, Minnesota, brown ale, coffee ale]
 author: bradorego
 type: Coffee Brown Ale

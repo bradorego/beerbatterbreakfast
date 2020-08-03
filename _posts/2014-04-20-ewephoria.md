@@ -2,7 +2,7 @@
 title: Ewephoria
 layout: post
 permalink: "/2014/04/ewephoria.html"
-date: "2014-04-20 10:27:00"
+date: "2014-04-20T10:27:00"
 tags: [ewephoria, 3 sheeps, 3 sheeps brewing company, sheboygan, wisconsin, chocolate ginger stout, ginger beer, stout]
 author: bradorego
 ---
