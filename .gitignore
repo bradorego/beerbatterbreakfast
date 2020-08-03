@@ -39,6 +39,6 @@ validation-report.json
 
 # Folders to ignore
 node_modules
-bower_components
+assets
 .jekyll-metadata
 .sass-cache
