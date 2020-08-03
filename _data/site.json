@@ -8,14 +8,13 @@
     "name": "Brad Orego",
     "url": "https://bradorego.com"
   },
-  "authors": [
-    {
-      "slug": "bradorego",
+  "authors": {
+    "bradorego": {
       "name": "Brad",
       "gravatar": "5abc28e6bc87799335d8ccaad3662e53",
       "twitter": "bradorego",
       "website": "https://bradorego.com"
     }
-  ],
+  },
   "paginate": 5
 }
