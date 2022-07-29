@@ -5,7 +5,7 @@
   "eleventyExcludeFromCollections": true,
   "pagination": {
     "data": collections.posts-only-descending,
-    "size": 2,
+    "size": 5,
     "alias": "all-posts"
   }
 }
@@ -21,7 +21,9 @@
         </a>
       </h1>
       <span class="post-date">by {{ author.name }}</span>
+      {% comment %}
       {{post.templateContent}}
+      {% endcomment %}
     </div>
   {% endfor %}
 </div>
